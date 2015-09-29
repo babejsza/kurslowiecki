@@ -1,0 +1,488 @@
+Do zwierzyny płowej zaliczamy	1	3	dziki	wilki	zające	jeleniowate
+Największym zwierzęciem z żyjących w Polsce jeleniowatych jest	2	0	łoś	jeleń europejski	daniel	jeleń sika
+Poroże łosia byka to	3	1	wieniec	rosochy	łopaty	parostki
+Okres godowy u łosi to	4	0	bukowisko	rykowisko	bekowisko	huczka
+Stado jeleni to	5	0	chmara	gromada	wataha	rudel
+Przeciętna masa tuszy łani jelenia wynosi około	6	1	30 kg	70 kg	150 kg	250 kg
+Okres godowy jeleni to	7	2	huczka	bukowisko	rykowisko	bekowisko
+Łania jelenia cieli się na ogół	8	1	co trzy lata	co rok	co dwa lata	dwa razy w roku
+W języku łowieckim nogi jelenia to	9	0	badyle	cewki	skoki	chody
+W języku łowieckim ogon jeleniowatych to	10	3	kwiat	omyk	kita	chwost
+Scypuł to	11	1	broda u łosia byka	skóra pokrywająca rosnące poroża jeleniowatych	kępa długich włosów na zadzie kozy	długa szczecina na karku jelenia byka
+Daniel jest gatunkiem zwierzyny w Polsce	12	0	sprowadzonym z południowej Europy	sprowadzonym z Azji	sprowadzonym z Ameryki	rodzimym
+Okres godowy danieli to	13	3	bukowisko	rykowisko	huczka	bekowisko
+Samica sarny to	14	2	samura	łania	siuta	kocica
+W języku łowieckim nogi sarny to	15	2	chody	badyle	cewki	skoki
+Przeciętna masa tuszy kozy wynosi	16	3	35 kg	25 kg	5 kg	15 kg
+W języku łowieckim okres godowy saren to	17	1	huczka	ruja	bekowisko	rykowisko
+Okres godowy saren przypada na	18	2	od połowy kwietnia do połowy sierpnia	od połowy stycznia do połowy lutego	od połowy lipca do połowy sierpnia	od połowy sierpnia do połowy września
+Koźlęta rodzą się na przełomie	19	0	maja-czerwca	czerwca-lipca	lipca-sierpnia	marca-kwietnia
+Koza karmi koźlęta	20	2	przez około 2 tygodnie od urodzenia	do końca lipca	do połowy grudnia	cały rok
+Koza prowadzi koźlęta	21	3	do końca lipca	do połowy grudnia	przez okres 2 tygodni od urodzenia	przez jeden rok
+Zjawisko ciąży utajonej / przedłużonej/ występuje u	22	0	sarny	dzika	zająca	jelenia sika
+Praktycznie pewną cechą rozpoznawczą kozy w zimie jest	23	3	brak poroża	wcześniejsze wychodzenie na żer	brak widocznego pędzla	widoczny fartuszek
+Cechą odróżniającą sarnę polną od leśnej jest m.in.	24	1	wyraźnie jaśniejsza suknia	tworzenie w okresie zimowym kilkudziesięcio osobniczych rudli	mniejsza płochliwość	wyraźnie większa tusza
+Typową docelową formą poroża kozła jest	25	1	widłak	szóstak	ósmak	dziesiątak
+Nogi dzika w języku łowieckim to	27	1	skoki	biegi	badyle	cewki
+Chyb występuje u	28	3	łosia	jelenia	sarny	dzika
+Watacha to stado	29	3	saren	jeleni	łosi	dzików
+Huczka to	30	2	głos godowy łosia	głos puchacza	okres godowy u dzików	okres godowy u wilków
+Przelatek w języku łowieckim to	31	1	wilk w drugim roku życia	dzik w drugim roku życia	jeleń w drugim roku życia	zając w drugim roku życia
+Oręż dzika to	32	3	fragment gwizdu	inaczej pędzel	szable odyńca	fajki i szable loch / grubych / oraz wycinków i odyńców
+Prawidłowa struktura pozyskania dzików zakłada odstrzał	33	0	60% warchlaków, 30% przelatków, 10% loch i odyńców	10% warchlaków, 60% przelatków, 30% loch i odyńców	30% warchlaków, 10% przelatków, 60% loch i odyńców	95% warchlaków i przelatków, 5% loch i odyńców
+Ślimy to	34	1	uszy zająca	rogi muflona	nogi dzika	skrzydła gęsi
+Wadera to samica	35	2	jelenia	dzika	wilka	łosia
+Samca borsuka i innych drapieżników po odstrzale odróżniamy od samicy na podstawie	36	3	długości ogona	masy ciała	tzw. znamienia Stroha	oględzin narządów płciowych
+Trop borsuka to odciski	37	0	w układzie dwójkowym, z wyraźnymi śladami pazurów	ułożone chaotycznie ze względu na niedbały chód	ułożone w charakterystyczne trójki	ułożone w jednej linii
+Ze względu na ciążę przedłużoną młode borsuki rodzą się	38	3	między styczniem a kwietniem zawsze 2	na początku lata, zawsze 2	na początku lata, zawsze 4	w marcu lub kwietniu w liczbie 2 - 5
+Borsuk odżywia się przede wszystkim tym co znajdzie a nie upoluje, stąd na jego dietę składa się	39	0	zarówno pokarm roślinny jak i zwierzęcy	pokarm zwierzęcy a zwłaszcza jaja i pisklęta ptaków	pokarm zwierzęcy, zwłaszcza drobne ssaki łowne	pokarm zwierzęcy, głównie padlina
+Borsuk zamieszkuje	40	2	pod stertami gałęzi, wykrotami itp. rzadko w norach	samotnie, ale w norach które sam kopie	w norach rodzinnych, często wielopiętrowych, które sam kopie	samotnie, najczęściej w opuszczonych norach lisich
+Stawki to	41	2	nogi zająca	uszy lisa	nogi lisa	nogi wilka
+Młode liski po urodzeniu	42	0	są ślepe i nieporadne przez blisko 2 tygodnie	są sprawne ruchowo, ale kilka dni nie opuszczają nory	po osuszeniu futerka wyruszają za matką	są sprawne ruchowo i po kilku dniach polują już na gryzonie
+Dojrzałość płciową lisy osiągają w wieku	43	2	0,5 roku	2 lata	9-10 miesięcy	1,5 roku
+Linienie u lisa występuje	44	0	raz w roku wiosną, a przed zimą wzrasta jedynie gęstość futra	raz w roku jesienią, a wiosną włos jedynie skraca się przez obłamanie ościstych końcówek	raz w roku- latem	dwa razy do roku- wiosną i latem
+Średni wiek lisa w łowisku wynosi około	45	2	9 lat	12 lat	4-6 lat	15 lat
+Najgroźniejsza choroba lisów to	46	2	syngamoza	kokcydioza	wścieklizna	bruceloza
+Fiołek to	47	1	koniec lisiej kity	gruczoł zapachowy aktywny zwłaszcza w okresie cieczki	gruczoł zapachowy odstraszający większe od lisa drapieżniki	odcisk łapy lisa na śniegu
+Nazwy lisów - węglarz, krzyżak, ogoniówka pochodzą od	48	2	kształtu i ubarwienia kity	sposobu jego łowów na zające	ubarwienia futra	środowiska bytowania
+Najwięcej przypadków wścieklizny stwierdza się	49	1	u kotów	u lisów	u saren	u psów
+Ulubione siedliska lisów to	50	2	rozległe kompleksy leśne, zwłaszcza wyżynne i górskie	otwarte tereny polne	mozaika lasów, pól i łąk	lasy iglaste z licznymi mokradłami, rzekami itp
+Masa ciała dorosłego lisa waha się między	51	0	5 a 10 kg	1 a 2 kg	3 a 5 kg	10 a 12 kg
+Charakterystyczną cechą tropu sznurującego lisa jest	52	3	brak odcisku opuszek i pazurów	charakterystyczny dwójkowy układ odcisków	niewyraźny odcisk pazurów i dwójkowy układ odcisków	ułożenie odcisków w jednej linii
+Czy możliwa jest jednoznaczna ocena płci lisa przed odstrzałem	53	3	tak po ubarwieniu futra	tak po ubarwieniu futra, ale tylko osobników młodych	tak po zabarwieniu końca kity	nie
+Lis odżywia się	54	0	jest wielożerny z przewagą pokarmu zwierzęcego	pokarm roślinny i zwierzęcy stanowią po 50% diety	głównie padliną	tylko pokarmem roślinnym
+Główny składnik menu lisa stanowią	55	3	zające	ptactwo łowne	padlina	gryzonie
+Dzienne zapotrzebowanie pokarmowe lisa wynosi	56	0	około 0,8 kg	około 1,2 kg	2 kg	powyżej 2 kg
+Cieczka lisów przypada	57	1	na koniec roku kalendarzowego	od stycznia do marca	latem, ponieważ u lisa występuje ciąża przedłużona	na przedwiośniu
+Liszka szczeni się	58	1	w marcu	w kwietniu lub maju	latem	podczas snu zimowego
+Liczba miotów u lisa w ciągu roku wynosi	59	0	1 rocznie	2 rocznie	3 rocznie	1 ale co drugi rok
+Liczba małych w miocie liszki waha się między	60	2	3 a 8	zawsze wynosi 5	2 a 4	1 a 2
+Najczęściej spotykany trop kuny to	61	0	odciski ułożone parami	odciski ułożone w charakterystyczne trójki	odciski w pełnym nieładzie ze względu na kołyszący chód kuny	odciski ułożone prawie w jednej linii
+Kamionka to	62	1	kuna o bardzo jasnym ubarwieniu futra	kuna żyjąca w zabudowaniach	kuna dożywiająca się wyłącznie pokarmem roślinnym	kuna zamieszkująca wyłącznie lasy
+Cieczka kun ma miejsce	63	2	wczesną wiosną	zimą	latem, bo występuje u nich ciąża przedłużona	jesienią, bo występuje u nich ciąża przedłużona
+Dieta kuny leśnej obejmuje	64	1	wyłącznie pokarm zwierzęcy	gryzonie i inny pokarm zwierzęcy uzupełniony roślinnym	wyłącznie ptaki i ich zniesienia, rzadko ssaki	padlina ale czasem i żywe zwierzęta
+Tumak to	65	1	kuna żyjąca w zabudowaniach	kuna leśna	młody bażant	młody lis
+Cechą charakterystyczną sukni kamionki jest m.in.	66	0	biała rozwidlona plama na szyi	czarna podłużna pręga na grzbiecie	żółto-pomarańczowa plama na podbródku	białe zakończenie ogona
+Jenot jest gatunkiem zwierzyny	67	0	od lat 50-tych zasiedlających polskie łowiska	stanowiącym największe zagrożenie dla zwierzyny drobnej	zamieszkującym rozległe suche lasy iglaste	ze względu na futro unikającym środowisk podmokłych
+Jenot odżywia się	68	3	wyłącznie zwierzyną drobną	tylko gryzoniami i zwierzętami podobnej wielkości	jest wszystkożerny ale preferuje padlinę	różnorodnym pokarmem zwierzęcym, a okresowo i roślinnym
+Jenot jest gatunkiem	69	2	aktywnym zarówno w dzień jek i w nocy	aktywnym w dzień i przesypiający całą zimę	aktywnym głównie nocą i przesypiający część zimy	aktywny w dzień i w nocy, także zimą
+Jenot najliczniej występuje w Polsce	70	1	w regionach wyżynnych i górskich	w północno-wschodniej części kraju	w Wielkopolsce	w Bieszczadach
+Norka amerykańska najliczniej występuje	71	1	na otwartych polach	na zarośniętych brzegach zbiorników wodnych	w małych kompleksach leśnych o obfitym podszyciu	w małych laskach śródpolnych
+Środowiskim najchętniej zasiedlanym przez tchórza są	72	1	rozległe bory	laski śródpolne, doliny rzek a także stodoły, szopy itp	tereny bagienne zwłaszcza na obszarach pofałdowanych	wyłącznie zabudowania gospodarcze i opuszczone domostwa
+Pokarmem preferowanym przez tchórza są	73	2	padlina, pokarm roślinny, a tylko czasem żywe zwierzęta	rośliny uzupełniane sporadycznie gryzoniami	gryzonie i inne drobne kręgowce uzupełniane pokarmem roślinnym	prawie wyłącznie jaja i pisklęta ptaków
+Liczba młodych rodzona przez tchórza to	74	1	2-3, 2razy w roku	3-7 w jednym miocie w roku	zawsze 4, 1-3 razy w roku	3-9 dwa razy w roku
+Piżmak jest gatunkiem	75	3	rodzimym	przywiezionym do Polski z Australii	rodem z Azji, przywędrował do nas ze wschodu	rodem z Ameryki, przywędrował do nas z południa
+Piżmak jest gatunkiem	76	1	tylko w okresie rozrodu przenoszącym się w środowisko wodne	ziemno-wodnym zamieszkującym brzegi zbiorników i cieków wodnych	żyjącym wyłącznie w wodzie	zamieszkującym trzciny i zarośla w pobliżu zbiorników wodnych
+Samica piżmaka rodzi	77	1	3 razy w roku po 3-5 młodych	kilka razy w roku po 5-9 młodych	3 razy w roku po 1-3 młodych	raz w roku do 10 młodych
+Długość słuchów (cecha rozpoznawcza zającowatych) u zająca szaraka w porównaniu z długością głowy	78	1	jest równa	słuchy są tylko nieco dłuższe	słuchy są prawie trzykrotnie dłuższe	słuchy są krótsze
+Samca od samicy zająca po odstrzale odróżniamy na podstawie	79	1	ubarwienia turzycy	oględziny narządów rozrodczych	długości skoków	masy ciała
+Dojrzałość płciową zając osiąga w wieku	80	0	5-7 miesięcy	1 roku	1,5 roku	2 lat
+Maksymalna długość życia zająca wynosi	81	3	12 miesięcy	3 lata	5-6 lat	12-13 lat
+Parkoty odbywają się	82	1	od kwietnia / maja do lipca / sierpnia /	od stycznia / lutego do sierpnia / września /	wyłącznie zimą	wyłącznie wiosną
+Samica zająca rzuca w ciągu roku	83	0	3-4 mioty	2 mioty	1 miot	1 miot co drugi rok
+Liczba młodych zajęcy w miocie wynosi	84	3	waha się od 5-10	najczęściej 2-4	zawsze 4	waha się od 1-6
+Ciąża u zająca trwa	85	3	9 tygodni	2 miesiące	1 miesiąc	42-44 dni
+Młode zajączki po urodzeniu	86	2	są nagie i ślepe	są w pełni rozwinięte, ale przez miesiąc nie opuszczają kotlin	są w pełni rozwinięte i prawie nie wydzielają zapachu	wydzielają zapach odstraszający drapieżniki
+Marczaki to	87	2	młode ze wszystkich miotów po urodzeniu	stare zające	młode wyłącznie z pierwszych miotów	młode w okresie parkotów
+Dietę zająca stanowi	88	2	pokarm roślinny ale latem także owady, ślimaki itp	wyłącznie kora, pędy i pąki drzew i krzewów oraz suche trawy, a tylko wyjątkowo kapusta i marchew	różnorodny pokarm roślinny	pokarm roślinny, a w przypadku młodych również owady
+Zające młode od starych w sezonie polowań odróżniamy po	89	2	po zmienianej w tym okresie turzycy	wyłącznie na podstawie masy ciała	w oparciu o tzw. znamię Stroha	po długości słuchów
+Największe straty w populacji zająca powoduje drapieżnictwo	90	2	ptaków krukowatych	wilka, rysia i orla	lisów	wałęsających się kotów
+Zając najliczniej zasiedla	91	1	duże kompleksy leśne	łowiska polne z mozaiką upraw	wielkołanowe monokultury polne	trzcinowiska i inne środowiska podmokłe
+Strugi to zęby	92	0	zająca	jelenia	wilka	rysia
+Trzeszcze to oczy	93	3	kuropatwy	bażanta	wilka	zająca
+Średnia masa zająca w sezonie polowań wynosi	94	1	2 kg	4 kg	7 kg	10 kg
+Dziki królik występuje	95	1	głównie na terenach wyżynnych i podgórskich płd. Polski	głównie na zachodzie kraju	w całej Polsce	głównie na wschód od Wisły
+Siedliskami preferowanymi przez dzikiego królika są	96	1	otwarte tereny polne i łąkowe	obrzeża lasów, remizy śródpolne a także tereny zurbanizowane	wyłącznie tereny zurbanizowane - parki, sady itp	duże zwarte kompleksy leśne na piaszczystych gledach
+Dziki królik żyje	97	1	wśród wysokij roślinności, czasem w norach	kolonijnie w norach, które sam kopie	kolonijnie w norach, wykopanych przez inne gatunki	pod stertami gałęzi, wykrotami itp. a rzadko także w norach
+Głównym zagrożeniem dla królika są	98	3	głównie człowiek i drapieżniki	wyłącznie człowiek	wyłącznie choroby	liczne choroby i drapieżniki
+Samica królika rodzi co roku	99	0	4-6 razy po 4-12 młodych	2 razy po 3-5 młodych	3 razy po 3-5 młodych	3-5 razy zawsze po 4 młode
+Jarząbek zasiedla najchętniej	100	1	małe laski śródpolne	rozległe lasy o urozmaiconym składzie gatunkowym	zwarte lasy liściaste	wyłącznie górskie lasy iglaste
+Jarząbek jest wielkością zbliżoną do	101	0	kuropatwy	dzikiej gęsi	kaczki krzyżówki	bażanty
+Środowiska najliczniej zasiedlane przez bażanty w Polsce to	102	2	regiony górskie	otwarte pola z gospodarką wielkołanową	tereny polne bogate w remizy, cieki wodne, trzcinowiska itp	duże kompleksy leśne
+Dorosłego koguta bażanta odróżniamy od kury opierając się na	103	3	kształcie dzioba	kolorze cieków	rysunku na upierzeniu piersi ptaka	barwie upierzenia
+Masa dorosłego koguta bażanta wynosi	104	3	do 0,5 kg	około 3 kg	około 5 kg	1,0-1,8 kg
+Bażant jest ptakiem o dużym zapotrzebowaniu pokarmowym i dziennie zjada	105	2	blisko 1 kg	około 500 g	około 100 g	około 25 g
+Pokarm piskląt bażanta w pierwszych tygodniach życia to	106	2	nasionka i małe owoce	drobne roślinki	pokarm owadzi	wydzelina wola matki
+W okresie jesienno-zimowym pożywienie bażantów stanowi	107	0	głównie różnorodny pokarm roślinny	oziminy, suche trawy łąkowe i ich nasiona	prawie wyłącznie owady, ewentualnie kora i łyko drzew	pokarm pochodzenia zwierzęcego
+Toki bażantów odbywają się	108	2	w ostatnich dniach zimy	tylko w kwietniu	od marca do czerwca	od maja do lipca
+Jaja bażantów są	109	1	niebieskie w różnych odcieniach	oliwkowo-szare w różnych odcieniach, czasem lekko nakrapiane	najczęściej białe	żółte czasem lekko nakrapiane
+Liczba jaj składanych przez kurę bażanta to najczęściej	110	0	od 6 do 18	20 i więcej	4	od 6 do 8
+Młode bażanciki przychodzą na świat głównie	111	2	w drugiej połowie maja i w czerwcu	od lipca do sierpnia	na przełomie czerwca i lipca	w końcu kwietnia
+Pisklęta bażanta po wylęgu	112	2	są nagie i niedołężne	są słabo opierzone, ale zaraz opuszczają gniazdo	są okryte puchem i po wyschnięciu mogą opuścić gniazdo	są dobrze rozwinięte i po kilku godzinach zaczynają podfruwywać
+Młode bażanty od dorosłych w sezonie polowań odróżniamy w oparciu o	113	1	tzw. znamię Stroha	tzw. bursę Fabrycjusza	kolor cieków	rysunek na lotkach pierwszorzędowych
+Wiek koguta bażanta możemy oszacować na podstawie	114	0	ilości pierścieni na ostrodze	długości dzioba	długości ogona	koloru upierzenia
+Młodą kuropatwę od starej w sezonie polowań rozpoznajemy po	115	1	upierzeniu głowy i liczbie sterówek	kolorze cieków i zakończeniu lotek pierwszorzędowych	kształcie sterówek	kolorze upierzenia
+Środowiska najczęściej zasiedlane przez kuropatwy to	116	2	łąki oraz pola o ciężkich glebach	pola w pobliżu lasów	tereny polne z dużą mozaiką upraw	wysokoprodukcyjne pola wielkołanowe
+Masa ciała dorosłych kuropatw waha się w granicach	117	3	150 - 200 g	około 1 kg	700 g	300 - 400 g
+Kuropatwy w odróżnieniu od bażantów są gatunkiem monogamicznym co oznacza, że	118	3	w czasie toków kury i koguty trzymają się w stadkach	w czasie toków jeden kogut depcze kilka kur	jeden kogut opiekuje się przez cały rok kilkoma kurami	w okresie rozrodu jeden kogut żyje z jedną kurą
+Rozpad stadek kuropatw i połączenia się w pary ma miejsce	119	2	od maja do czerwca	zimą	na przedwiośniu	w końcu kwietnia
+Liczba jaj składanych przez kury kuropatwy wynosi	120	1	zawsze powyżej 20	przeciętnie 15	od 5 do10	zawsze 10
+Jaja kuropatwy są	121	2	oliwkowe w różnych odcieniach z delikatnym nakrapianiem	białe lub kremowe, delikatnie nakrapiane	oliwkowo-szare	niebieskie w różnych odcieniach
+Główna pora wylęgu młodych kuropatw to	122	1	pierwsza połowa lipca	czerwiec	połowa maja	przełom kwietnia i maja
+Śmiertelność naturalna kuropatw w ciągu roku wynosi	123	3	niespełna 20%	25 - 35%	do 50%	50 - 80%
+Najdłużej zarejestrowany wiek kuropatw wynosił	124	2	2 lata	3,5 roku	5 lat	prawie 10 lat
+Kura kuropatwy wysiaduje jaja przez	125	3	28 - 30 dni	miesiąć, a nierzadko i dłużej	trzy tygodnie	24 - 26 dni
+Pisklęta kuropatwy po wylęgu	126	3	są nagie i niedołężne	są dobrze rozwinięte i po kilku godzinach zaczynają podfruwywać	są słabo opierzone ale zaraz opuszczają gniazdo	są okryte puchem i po wyschnięciu mogą opuścić gniazdo
+Przyczyną dużej śmiertelności piskląt kuropatwy może być	127	1	zbyt szybka wegetacja roślin w danym roku	brak pokarmu owadziego w pierwszych tygodniach po wykluciu	agresywność samic, które straciły lęgi	agresywność dorosłych kogutów
+Pokarm kuropatw w okresie zimy stanowi głównie	128	0	oziminy oraz nasiona roślin	pączki drzew i krzewów	pokarm pochodzenia zwierzęcego	kłącza i inne podziemne części roślin
+Młode kuropatwy ( pisklęta ) odżywiają się	129	2	pokarmem zwierzęcym i roślinnym	pączkami drzew i krzewów	wyłącznie pokarmem zwierzęcym	wyłącznie pokarmem roślinnym
+Najważniejszym działaniem dla ochrony czapli siwej jest	130	2	wstrzymanie odstrzału	odstrzał lisów	ochrona czaplińców	likwidacja kłusownictwa
+Chrapanie to głos	131	2	zająca	kaczki	słonki	kuropatwy
+Wieczorne i poranne godowe loty słonek to	132	3	zapady	parkoty	przeloty	ciągi
+Biotopem preferowanym przez słonkę w okresie rozrodu są	133	3	otwarte tereny bagienne	małe laski śródpolne	rozległe suche sośniny	wilgotne, różnogatunkowe, niezbyt zwarte kompleksy leśne
+Jedyną gęsią gniazdującą w Polsce jest	134	1	bernikla kanadyjska	gęś gęgawa	gęś białoczelna	gęś zbożowa
+Gatunkiem gęsi najliczniej przelatującym nad Polską jest	135	3	gęś gęgawa	gęś białoczelna	bernikla kanadyjska	gęś zbożowa
+Liczba składanych jaj przez dzikie gęsi waha się między	136	2	10 a 15	8 a 14	4 a 9	1 a 2
+Maksymalna stwierdzona długość życia gęsi gęgawy wynosi	137	0	40 lat	25 lat	7 lat	17 lat
+Masa ciała gęsi gęgawy	138	1	5 - 9 kg	3 - 6 kg	10 kg	1,5 - 3 kg
+Rozróżnianie płci oraz osobników młodocianych od dorosłych dzikich gęsi po odstrzale odbywa się na podstawie	139	0	cech upierzenia - zarówno płeć jak i wiek	oględzin narządów rozrodczych - płeć, a wiek po cechach upierzenia	oględzin narządów rozrodczych - płeć, a wieku nie można ocenić	cech upierzenia - płeć, a wieku nie można ocenić
+Gęsi łączą się w pary	140	2	na okres rozrodu	na okres roku	na wiele lat, a w przypadku śmierci partnera pozostają samotne	na wiele lat, a w przypadku śmierci partnera poszukują innego
+Pisklęta dzikich gęsi i kaczek po wylęgu	141	0	są okryte puchem i po wyschnięciu mogą opuścić gniazdo	są słabo opierzone i zaraz opuszczają gniazdo	są nagie i niedołężne	są dobrze rozwinięte i po kilku godzinach zaczynają podfruwać
+Najpospolitszym gatunkiem wśród dzikich kaczek w Polsce jest	142	2	czernica	cyraneczka	krzyżówka	głowienka
+Rozróżnianie płci oraz osobników młodocianych i dorosłych u dzikich kaczek po odstrzale odbywa się na podstawie	143	0	oględzin narządów rozrodczych - płeć, a wieku nie można ocenić	płci nie można ocenić, a wiek po cechach upierzenia	cech upierzenia - zarówno płeć jak i wiek	cech upierzenia - płeć, a wieku nie można ocenić
+Pierwsze krzyżówki zakładają gniazda	144	3	od początku czerwca	na przełomie kwietnia i maja	od połowy kwietnia	od końca marca
+Liczba jaj składanych przez krzyżówkę waha się między	145	2	zawsze jest większa od 15	2 a 3	8 a 14	5 a 8
+Udatność lęgów krzyżówki w Polsce jest niewielka ( - % ), a głównym powodem tego są	146	3	działalność człowieka	zalewanie gniazd	liczne choroby	drapieżniki skrzydlate i czworonożne
+Masa krzyżówki waha się	147	0	około 1 kg	około 0,5 kg	około 3 kg	jest bliska 5 kg
+Do kaczek właściwych zaliczamy kaczki	148	2	głowienkę i czernicę	zbożową i białoczelną	krzyżówkę i cyraneczkę	wszystkie gatunki bernikli
+Łyska należy do	149	1	kaczek nurkujących	jest spokrewniona z żurawiem	kaczek właściwych	jest spokrewniona ze słonką
+Jedynym łownym gatunkiem gołębia jest	150	0	grzywacz	sierpówka	synogarlica turecka	turkawka
+Na jakie ptaki z rzędu drapieżnych możemy polować	151	1	pustułka	wszystkie ptaki z tego rzędu są pod ochroną	pszczołojad	jastrząb gołębiarz
+Czy możemy polować na jastrzębia gołębiarza	152	2	tak, bez ograniczeń	tak, zgodnie z kalendarzem polowań	nie	w ośrodkach hodowli zwierzyny drobnej
+Poprawie sytuacji ptactwa wodnego służy przede wszystkim	154	3	likwidacja kłusownictwa	hodowla zamknięta	odstrzał tylko samców	zachowanie ich środowisk bytowania
+Awantaż kolby broni to	155	0	odchylenie przykładu od płaszczyzny pionowej	pochylanie kolby w paszczyźnie pionowej	łukowe wgłębienie szyny w starych typach dwururek	skośne ścięcie kolby pomiędzy noskiem i piętką
+Baką nazywamy	156	1	nakładkę amortyzującą odrzut strzelby przy strzale	wypukłość kolby od strony policzka	uchwyt strzelby między baskilą a kolbą	część osady na długości lufy
+Wyważanie strzelby to	157	1	przystosowanie długości paska do rozstawienia bączków	ulokowanie środka ciężkości strzelby na długości komory nabojowej	sprowadzenie rzeczywistego ciężaru strzelby załadowanej	porównanie ciężaru luf z ciężarem kolby i baskili
+Otwarte przyrządy celownicze to	158	2	prześwit pod celownikiem optycznym	lufy pozbawione muszki i szczerbinki	szczerbinka, muszka, szyna	celowniki optyczne po zdjęciu osłonek
+Loftkami nazywamy	159	2	pocisk do broni pneumatycznej	pocisk do broni myśliwskiej o gładkim przewodzie lufy	rodzaj śrutu ołowianego o średnicy ziaren powyżej 4,5 mm	odcinek drutu ołowianego o długości 5 - 8mm
+Dobra celność lufy gładkiej w strzelaniu kulą na odległość m to rozrzut	160	0	o średnicy poniżej 20cm	o średnicy poniżej 25cm	o średnicy poniżej 30cm	o średnicy poniżej 35cm
+Co oznacza termin „założenie” przy strzelaniu do celów będących w ruchu?	161	3	określenie max. dystansu skutecznego strzału	ocena odległości na którą zbliża się zwierzyna	zakład z kolegą o lepszy wynik w trafieniu do celu	odległość punktu celowania przed celem w momencie strzału
+Liczba określająca kaliber broni śrutowej (np. kal.  ) oznacza	163	3	średnicę lufy równą 12 mm	średnicę naboju równą 12 mm	średnicę lufy równą 0,12” (cala)	ilość kul o średnicy przewodu lufy jaką można odlać z 1 funta ang. ołowiu
+Jaki może być maksymalny zasięg strzału śrutem o &Oslash; , mm	164	1	około 100 m	około 350 m	około 1000 m	około 40 m
+Jaką średnicę ( w mm) ma śrut myśliwski oznaczony Nr 	165	0	3,75 mm	2,75 mm	3 mm	1,0 mm
+Eżektory w broni śrutowej służą do	166	2	zaczepiania paska broni	ryglowania luf	usuwania łusek po wystrzelonych nabojach	wyrzucania wystrzelonych łusek lub naboi z komór nabojowych
+W którym miejscu grubość ścianki lufy śrutowej jest największa?	167	1	na odcinku wylotowym lufy	na odcinku komory nabojowej	grubość jest równa na całej długości lufy	w części środkowej
+Co to jest czok?	168	2	stożek przejściowy między komorą nabojową a lufą	system ryglowania luf	zwężenie wylotowe lufy śrutowej	odmiana osady broni myśliwskiej
+Jaki może być zasięg (donośność) pocisku kulowego typu „Breneka” wystrzelonego z broni myśliwskiej o lufach gładkich?	170	0	1000 - 2000 m	300 - 400 m	150 - 200 m	do 5000 m
+Komorą nabojową nazywamy	171	0	miejsce w lufie, gdzie mieści się nabój przed strzałem	magazynek automatycznej broni śrutowej	miejsce przechowywania amunicji	zapasowy magazynek broni strzeleckiej
+Oddanie strzału przy niedrożnej lufie może być powodem	172	3	strzału niecelnego	strzału o bardzo małym zasięgu śrucin	niewypału	rozdęcia lub rozerwania przewodu lufy
+Użycie optycznych przyrządów celowniczych na polowaniach zbiorowych	173	0	nie wymaga czyjekolwiek zgody pod warunkiem, że luneta ma ustawioną krotność nie większą niż trzy 	wymaga zgody prowadzącego polowanie przy jednoczesnym spełnieniu wymagań co do wielkości powiększenia 	muszą być spełnione wymagania dotyczące siatki celowniczej	wymaga zgody prowadzącego polowanie i muszą być spełnione wymogi co do wielkości powiększenia	jest zabronione
+Sprawdzanie czy lufy nie są zatkane przeprowadza się	174	1	przed wprowadzeniem naboju do komory nabojowej tylko przy pierwszym załadowaniu broni	przed każdym wprowadzeniem naboju do komory nabojowej i w każdym przypadku na polowaniu indywidualnym czy zbiorowym kiedy zaistniała możliwość zatkania przewodu lufy ciałami obcymi 	przed zejściem ze stanowiska	przed pierwszym polowaniem
+Na polowaniu zbiorowym z obowiązujących w zasadzie trzech podstawowych sygnałów granych na trąbce, które(y) z nich może pominąć prowadzący polowanie	175	3	trzeci	pierwszy i trzeci	drugi i trzeci	pierwszy i drugi
+Które z poniższych sformułowań dotyczących polowania na dziki w porze nocnej są prawdziwe	176	3	można polować z każdą bronią	można polować tylko z bronią gwintowaną z zamontowanym na niej optycznym przyrządem celowniczym oraz z lornetką 	można polować tylko z bronią gwintowaną o kalibrze większym niż 7 mm, bez innych ograniczeń	można polować tylko indywidualnie pod warunkiem, że posiada się lornetkę, latarkę i broń wyposażoną w optyczny przyrząd celowniczy
+Przy przechodzeniu przez cudzy obwód łowiecki broń powinna być niesiona	177	3	zabezpieczona	z otwartymi zamkami	na pasku na ramieniu z lufami skierowanymi do góry	rozładowana i niesiona w futerale
+Myśliwy, który na polowaniu wypił alkohol lub zażył inne środki psychotropowe czy odurzające	178	0	podlega obligatoryjnie natychmiastowemu wykluczeniu z polowania przez prowadzącego polowanie	podlega wykluczeniu z dalszego polowania przez prowadzącego polowanie w zależności od jego uznania	nie przekroczył żadnych przepisów regulaminu polowań	podlega karze porządkowej i może uczestniczyć w dalszym polowaniu
+W czasie polowania zbiorowego pozycja przy oddawaniu strzału musi być	179	0	stojąca	siedząca	dowolna, gwarantująca skuteczność strzału	stojąca w rowie lub innym zagłębieniu
+Do ptactwa w locie wolno strzelać w kierunku naganki lub innych myśliwych pod warunkiem, że	180	2	strzał jest oddany poziomo ale śrutem o średnicy drobin mniejszej niż 2 mm	naganka nie jest bliżej niż 100 m (bez innych uwarunkowań)	na linii strzału nie ma żadnych przeszkód, które zmieniłyby tor śruciny a strzał oddaje się pod kątem większym od 60° w gór ę od poziomu	ptak leci poziomo na wysokości przekraczającej 2 m
+Na polowaniu zbiorowym dopuszczalna granica strzału w miot kulą z broni o lufach gładkich wynosi	181	0	do 40 m	do 50m	do 100m	do 150m
+Przed rozpoczęciem pędzenia myśliwy może strzelać do ukazującej się zwierzyny w odległości regulaminowo dopuszczalnej dla strzału, gdy	182	3	tylko zobaczy zwierzynę	poprzedzający myśliwy zajął już stanowisko	wszyscy myśliwi są już na stanowiskach	jego najbliżsi sąsiedzi zajęli już stanowiska i nawiązał z nimi kontakt wzrokowy
+Do zwierzyny poruszającej się po wierzchołku wzniesienia (lub w pobliżu wierzchołka) wolno strzelać myśliwemu stojącemu na stoku, gdy odległość myśliwego od celu wynosi	183	1	35m i tylko śrutem	nie wolno strzelać wcale	30m śrutem i 50m breneką	maksymalnie dopuszczalną regulaminem dla strzału śrutowego
+Za strzał wzdłuż linii myśliwych uważa się strzał, przy którym pocisk kulowy lub skrajne śruty wiązki przechodzą lub w przedłużeniu toru przeszłyby w odległości mniejszej niż	184	2	2 m od stanowiska sąsiada	20 m od stanowiska sąsiada	10 m od stanowiska sąsiada	5 m od stanowiska sąsiada
+Nie wolno strzelać do zwierzyny w odległości mniejszej od zabudowań mieszkalnych niż	185	2	200 m	500 m	100 m	1500 m
+Czy na polowaniu zbiorowym wolno używać broni automatycznej śrutowej	186	1	tak, bez żadnych ograniczeń	magazynek broni samopowtarzalnej może zawierać najwyżej dwa naboje	tak, ale wolno ją ładować najwyżej czterema nabojami	nie
+Do zwierzyny poruszającej się po ziemi nie wolno strzelać w miot, gdy naganka zbliżyła się na odległość mniejszą niż około	187	0	w terenie otwartym 150 m, a w leśnym 100 m	w terenie otwartym 200 m, a w leśnym 150 m	w terenie otwartym 100 m, a w leśnym 150 m	zarówno w terenie otwartym jak i w leśnym na odległość 150 m
+Czy wolno krytykować zarządzenia prowadzącego polowanie	188	1	nie i nie ma możliwości odwołania się od tych zarządzeń	nie, ale można złożyć odwołanie do zarządu koła	tak, o ile są niezgodne z przepisami	tak w każdym przypadku jeżeli zarządzenia według naszej oceny nie są słuszne
+Do wykonywania polowania indywidualnego uprawnia	189	2	dowód osobisty, zaświadczenie od rusznikarza o stanie technicznym broni i ważna legitymacja PZŁ	pozwolenie na broń, zaświadczenie od rusznikarza o stanie technicznym broni i ważna legitymacja PZŁ	ważna legitymacja PZŁ, pozwolenie na broń i upoważnienie do wykonywania polowania indywialnego 	pozwolenie na broń, dowód osobisty, zezwolenie na indywidualny odstrzał
+Strzał w miot kulą do innej zwierzyny niż płowa jest	191	3	dozwolony, ale na odległość do 60 m	niedozwolony, chyba że w wyjątkowych przypadkach prowadzący polowanie zezwoli na taki strzał z niektórych stanowisk 	dozwolony, ale na odległość do 100 m	dozwolony, ale na odległość do 40 m
+Dopuszczalna górna granica strzału śrutem na polowaniu indywidualnym wynosi	192	1	do 30 m	do 40 m	do 50 m	do 100 m
+Przy użyciu broni i amunicji wojskowej wchodzić w posiadanie zwierzyny	193	2	wolno po uzyskaniu zgody zarządu wojewódzkiego PZŁ	wolno po uzyskaniu zgody komendanta policji	w żadnym przypadku nie wolno	wolno o ile broń nie jest wyposażona w celownik optyczny
+Podczas polowania indywidualnego	194	3	użycie naganki jest dozwolone tylko w przypadku polowań na zwierzynę czarną	użycie naganki jest dozwolone tylko w przypadku polowań na samce zwierzyny płowej	użycie naganki jest dozwolone	użycie naganki jest niedozwolone
+Na polowaniu zbiorowym, na którym dla myśliwych wyznaczone są nieruchome stanowiska wolno ładować broń	195	2	po pierwszym sygnale (oznaczającym ruszenie naganki)	po zajęciu stanowisk przez wszystkich myśliwych	po zajęciu stanowiska	po zajęciu swoich stanowisk przez sąsiadów
+Za początek polowania zbiorowego uważa się	196	0	z chwilą przystąpienia myśliwych do odprawy	moment zakończenia odprawy	moment przybycia uczestników polowania na miejsce zbiórki	moment rozpoczęcia rozprowadzania myśliwych i naganiaczy na pierwsze pędzenie
+Na polowaniu zbiorowym obowiązek dochodzenia postrzałka i dostrzelenia go spoczywa na	197	2	nie ma takiego obowiązku	prowadzącym polowanie	myśliwym, który go zranił	wszystkich myśliwych biorących udział w polowaniu
+Kalendarz polowań zbiorowych ustala	198	2	zarząd okręgowy PZŁ	nadleśnictwo	zarząd koła	walne zgromadzenie koła
+Kiedy strzelający ma obowiązek sprawdzić wzrokowo drożność przewodu luf ?	199	0	przed każdorazowym załadowaniem broni	przed zajęciem stanowiska	po nieodpaleniu ładunku	wyrywkowo wg. własnego uznania
+Dopuszczalna górna granica strzału śrutem poza miot wynosi	200	1	na 100m	na 40 m	na 50 m	na 30 m
+Od miejsca zebrań publicznych w czasie ich trwania nie wolno strzelać do zwierzyny w odległości mniejszej niż	201	0	1500 m	500 m	200 m	100 m
+Na polowaniu zbiorowym myśliwy po zajęciu wyznaczonego stanowiska może	202	0	przesunąć się nie więcej niż 3 m w prawo lub w lewo wzdłuż linii myśliwych	przesunąć się nie więcej niż 3 m, ale tylko w przód lub w tył, aby nie zmniejszać odległości między sąsiadującymi myśliwymi	zmieniać miejsce przesuwając się wzdłuż linii myśliwych bez ograniczeń	zamienić się na miejsce z najbliższym sąsiadem
+Czy myśliwy udający się na miejsce zbiórki uczestników polowania zbiorowego ma prawo strzelać do napotkanej zwierzyny	203	2	tak, o ile dany gatunek będzie obiektem polowania zbiorowego	tak, ale tylko wówczas, gdy ma zezwolenie na odstrzał indywidualny	nie	brak takich ustaleń
+Na polowaniu zbiorowym między pędzeniami broń łamana musi być	204	2	nie ma uregulowań prawnych w tej sprawie	złamana z nabojami w komorze nabojowej	rozładowana	tylko zabezpieczona
+Na polowaniu zbiorowym po zejściu ze stanowiska broń niezaładowaną należy trzymać	205	1	obojętnie jak, gdyż nie jest załadowana	zawsze lufami w górę lub w dół	nie ma uregulowań prawnych w tej sprawie	z lufami poziomo
+Jak należy trzymać broń załadowaną ?	206	0	zawsze lufami w górę lub dół	z lufami skierowanymi od siebie bez innych uwarunkowań	lufa(y) w poziomo z wylotem skierowanym do tyłu	lufami w górę lub w dół, o ile broń nie jest zabezpieczona, w przeciwnym razie kierunek luf nie ma znaczenia
+Czy wolno strzelać kulą w miot do zwierzyny ?	207	2	do każdej zwierzyny, ale na odległość nie dalszą niż 30 m	do każdej zwierzyny, która jest w polu widzenia	tak, a do zwierzyny płowej za zgodą prowadzącego polowanie i na odległość do 40 m	tak, ale wyłącznie do zwierzyny płowej i na odległość do 40 m
+Myśliwy idąc z naganką na polowaniu zbiorowym pędzeniami na zające	208	3	a prawo strzału do każdej zwierzyny za zgodą prowadzącego polowanie	ma prawo strzału na równi z innymi myśliwymi, do każdej zwierzyny	ma prawo strzału tylko do ptactwa (kąt 60°) za zgodą prowadzącego polowanie	nie ma prawa strzału i powinien mieć broń rozładowaną
+Przy przechodzeniu przez przeszkody terenowe broń musi	209	0	mieć usunięte naboje z komór nabojowych	być rozładowana i złamana	być złożona i schowana w futerale	być zabezpieczona
+W jakiej odległości od maszyn rolniczych pracujących na polu wolno polować	210	2	100 m	150 m	200 m	500 m
+Podczas polowania stwierdzamy, że lufa jest częściowo zatkana śniegiem. W tej sytuacji należy	211	2	strzelać do zwierzyny, nie zwracając uwagi na ten fakt	oddać broń do przeglądu rusznikarzowi	przeczyścić lufy	strzelić w górę w celu oczyszczenia luf
+Po strzale wiązka śrutu trafia w ziemię i odbija się. Czy kąt odbicia śrucin będzie ?	212	3	dwa razy większy od kąta padania	równy kątowi padania	większy niż w przypadku strzału do lustra wody	trudno przewidzieć kierunek odbicia się śrucin
+Czy poszukując postrzałka w cudzym obwodzie łowieckim można korzystać z pomocy psa?	213	0	tak, za zgodą władającego terenem, ale pies musi być prowadzony na otoku	tak, bez żadnych ograniczeń regulaminowych	tak, ale w obecności przedstawiciela dzierżawcy cudzego obwodu	nie
+Czy poszukując postrzałka w cudzym obwodzie łowieckim należy zawiadomić o tym fakcie dzierżawcę lub zarządcę tego obwodu ?	214	2	tak, w ciągu 24 godzin, ale tylko w przypadku odnalezienia postrzałka	tak, w ciągu 24 godzin, niezależnie od wyniku poszukiwania	niezwłocznie, nie później jednak niż po upływie 12 godzin od rozpoczęcia poszukiwań	tak, w ciągu 12 godzin , ale tylko w przypadku nie odnalezienia postrzałka
+Czy myśliwy może polować w nocy na dziki z dubeltówką ?	215	2	tak	tak, ale musi mieć ona zamontowane optyczne przyrządy celownicze, a myśliwy musi być wyposażony w lornetkę i 	latarkę	nie	wystarczy posiadanie dodatkowo lornetki
+Na zające wolno polować na polowaniach zbiorowych	216	1	 z zasiadki	pędzeniami	w kotły	na pomyka
+Za noc w rozumieniu ustawy łowieckiej uważa się okres	217	0	od godziny po zachodzie do godziny przed wschodem słońca	od wschodu do zachodu księżyca	godzinę przed wschodem do godziny po zachodzie księżyca	od zachodu do wschodu słońca
+Czy wolno stosować optyczne przyrządy celownicze do broni o lufach gładkich ?	218	0	tak	nie	tylko na polowaniach w nocy	tylko za zgodą zarządu Koła
+Na polowaniu zbiorowym między pędzeniami broń	219	2	nie musi być ani rozładowana ani zabezpieczona	musi być zabezpieczona ale nie musi być rozładowana	musi mieć opróżnione komory nabojowe	musi być rozładowana i znajdować się w futerale
+Dopuszczalna górna granica strzału kulą z broni o lufach gładkich na polowaniu indywidualnym wynosi	220	2	30 m	60 m	40 m	50 m
+Dopuszczalna górna granica strzału kulą z broni o lufie gwintowanej zaopatrzonej w celownik optyczny na polowaniu indywidualnym wynosi	221	0	200 m	350 m	150 m	100 m
+Na polowaniach zbiorowych używanie przyśpiesznika jest	222	2	dozwolone od momentu zajęcia stanowiska przez obu sąsiadów, ale tylko w terenie polnym	dozwolone bez względu na charakter terenu ale naciągnięcie przyśpiesznika może nastąpić dopiero po dokładnym rozpoznaniu zwierzyny i złożeniu się do strzału	zabronione	dozwolone od momentu zajęcia stanowiska przez obu sąsiadów, bez względu na charakter terenu
+Strzał kulą w miot, na polowaniu zbiorowym, do zwierzyny płowej jest	223	3	dozwolony za zgodą prowadzącego polowanie ale na odległość do 100 m	dozwolony ale na odległość do 60 m	dozwolony ale na odległość do 40 m	dozwolony na odległość do 40 m, i za zgodą prowadzącego polowanie, w warunkach gwarantujących bezpieczeństwo
+Dopuszczalna granica strzału poza miot z broni o lufie gwintowanej wynosi	224	2	150 m	60 m	100 m	40 m
+W polowaniu na dziki, gdy rolę naganki pełni jeden lub dwóch myśliwych podkładających psy to	225	3	wyjątkowo, za zgodą prowadzącego polowanie dopuszcza się oddanie strzału ale tylko do ptactwa i pod kątem min. 60 %	w żadnym przypadku nie przysługuje mu prawo oddania strzału	przysługuje im takie samo jak pozostałym myśliwym prawo oddania strzału	prowadzący polowanie może zezwolić jednemu lub obu na strzelanie podczas pędzenia wyłącznie do dzików
+Do zwierzyny poruszającej się po ziemi nie wolno strzelać w miot ( choćby nie było jeszcze sygnału dźwiękowego zabraniającego strzału w miot ), gdy naganka zbliżyła się na terenie otwartym na odległość mniejszą niż	226	3	50 m	200 m	100 m	150 m
+Na polowaniu zbiorowym, na którym wyznaczone są nieruchome stanowiska myśliwy po zajęciu wskazanego mu miejsca przed zakończeniem pędzenia	227	1	w żadnym przypadku nie ma prawa go opuścić	ma prawo je opuścić w celu niesienia w nagłych wypadkach pomocy innym osobom	ma prawo je opuścić w celu dojścia postrzałka	ma prawo je opuścić w celu przyniesienia pozyskanej zwierzyny na zajmowane stanowisko
+Polowanie indywidualne na zwierzynę grubą wymaga współdziałania ze sobą	228	0	myśliwy musi działać niezależnie od innych myśliwych znajdujących się w tym samym obwodzie	min. 6 myśliwych, znajdujących się w tym samym obwodzie	min. 3 myśliwych	min. 2 myśliwych, znajdujących się w tym samym obwodzie
+Myśliwy posiadający zezwolenie na odstrzał indywidualny	229	2	może odstępować swe zezwolenie innym myśliwym bez ograniczeń	może odstępować swe zezwolenie ale tylko członkom swego koła macierzystego	nie może odstępować swego zezwolenia innym myśliwym	może odstępować swe zezwolenie o ile wydano je na drapieżniki
+Na podstawie zezwoleń na odstrzały indywidualne myśliwi	230	0	nie mogą organizować polowań zbiorowych	mogą organizować polowanie zbiorowe jedynie na zwierzynę czarną	mogą organizować polowanie zbiorowe jedynie na zwierzynę płową	mogą organizować polowanie zbiorowe bez ograniczeń
+Za nieprzestrzeganie przez myśliwych zasad bezpieczeństwa, etyki łowieckiej oraz innych postanowień regulaminu polowań na polowaniu indywidualnym, karę porządkową nakłada	231	2	łowczy koła	zarząd wojewódzki właściwy według siedziby koła	zarząd koła	sąd łowiecki właściwy według siedziby koła
+Za nieprzestrzeganie przez myśliwych zasad bezpieczeństwa, etyki łowieckiej oraz innych postanowień regulaminu polowań na polowaniu zbiorowym, środek dyscyplinujący nakłada	232	2	łowczy koła	sąd łowiecki właściwy według siedziby koła	zarząd koła	prowadzący polowanie
+Kiedy można załadować broń na strzelnicy myśliwskiej	233	0	po zajęciu stanowiska i skierowaniu luf w kierunku celu	po zbliżeniu się do stanowiska na 1 m	po komendzie prowadzącego strzelanie	według własnego uznania
+Jaki dokument powinien posiadać myśliwy na strzelnicy myśliwskiej ?	234	0	ważne pozwolenie na broń	świadectwo o przeglądzie broni przez rusznikarza	aktualną legitymację PZŁ	dowód osobisty
+Kiedy można zejść ze stanowiska strzeleckiego na strzelnicy ?	235	3	 po rozładowaniu broni i zamknięciu broni	po skierowaniu luf w górę	po zabezpieczeniu załadowanej broni	po rozładowaniu i otwarciu komory nabojowej
+Kiedy należy zdjąć pasek strzelby na strzelnicy ?	236	3	przed załadowaniem broni	nie zdejmuje się paska strzelby	przed wejściem na stanowisko strzeleckie	przy wyjmowaniu broni z futerału
+Zwierzyna w stanie wolnym stanowi własność	237	0	Skarbu Państwa	dzierżawcy bądź zarządcy obwodu	niczyją	właściciela gruntu
+Członkowie koła za zobowiązania koła	238	0	nie odpowiadają	odpowiadają do wysokości rocznej składki	odpowiadają solidarnie i bez ograniczeń	odpowiadają wyłącznie członkowie zarządu i komisji rewizyjnej
+Zwierzyna pozyskana zgodnie z łowieckim planem hodowlanym w wydzierżawionym obwodzie łowieckim stanowi własność	239	1	wydzierżawiającego obwód	dzierżawiącego obwód	Skarbu Państwa	myśliwego, który pozyskał zwierzynę
+Koło Łowieckie	240	1	jest jednostką organizacyjną Zrzeszenia nie posiadającą osobowości prawnej	posiada osobowość prawną	jest spółką cywilną nie posiadającą osobowości prawnej	posiada osobowość prawną, jednak do prezentacji koła wymagane jest współdziałanie z zarządem okręgowym PZŁ
+Z egzaminu dla kandydatów do PZŁ	241	4	zwolnienie są pracownicy biur zarządów okręgowych i Zarządu Głównego PZŁ	zwolnieni są absolwenci wyższych szkół rolniczych	zwolnione są osoby posiadające śreadnie lub wyższe wykształcenie leśnei zatrudnieni w Dyrekcji Generalnej 	Lasów Państwowych i jednostkach jej podległych	nikt nie jest zwolniony
+Cudzoziemiec nie będący członkiem PZŁ	242	0	może polować po uzyskaniu zgody Ministra Środowiska	może polować po uzyskaniu zgody Zarządu Głównego PZŁ	może polować bez ograniczeń	nie może polować na terenie Polski
+Organami koła są	243	3	zarząd koła	walne zgromadzenie koła i komisja rewizyjna	walne zgromadzenie koła	walne zgromadzenie koła, zarząd koła i komisja rewizyjna
+Członkowie Zarządu koła pełnią swe funkcje	244	1	za wynagrodzeniem lecz nie może to być główne źródło ich utrzymania	społecznie	za wynagrodzeniem ustalonym przez Walne Zgromadzenie koła	za wynagrodzeniem ustalonym przez zarząd wojewódzki PZŁ
+Polując na zwierzynę grubą w okresie od  marca do  września wolno korzystać z pomocy psa	245	2	nie	tak bez żadnych ograniczeń	wyłącznie do poszukiwań postrzałków, a pies musi być na otoku	tak ale tylko do polowań leśnych - zbiorowych
+Obowiązkiem myśliwego, który bierze tuszę zwierzyny na użytek własny jest dopilnowanie przeprowadzenia przez lekarza weterynarii badań tuszy na obecność włośni. Jakiego gatunku zwierzyny to dotyczy ?	246	0	dzika	łosia	jelenia	sarny
+Polski Związek Łowiecki jest	247	2	samodzielną jednostką administracyjną Ministerstwa Środowiska	spółką prawa handlowego osób fizycznych i prawnych	zrzeszeniem osób fizycznych i prawnych	stowarzyszeniem osób fizycznych
+Członkostwo PZŁ uzyskuje się przez	248	1	zdanie egzaminu dla kandydatów do PZŁ	wydanie decyzji przez Zarząd Okręgowy PZŁ	przyjęcie do koła na mocy decyzji Zarządu Koła	uchwałą Walnego Zgromadzenia koła
+Władzami PZŁ na szczeblach centralnych są	249	2	Naczelna Rada Łowiecka i Główna Komisja Rewizyjna	Zarząd Główny PZŁ i Główny Sąd Łowiecki	Krajowy Zjazd Delegatów i Naczelna Rada Łowiecka	Zarząd Główny PZŁ i Krajowy Zjazd Delegatów PZŁ
+Podstawą gospodarki łowieckiej w dzierżawionym obwodzie łowieckim jest łowiecki plan hodowlany. Kto zatwierdza ten plan ?	252	2	zarząd okręgowy PZŁ	urząd wojewódzki	nadleśnictwo	regionalna dyrekcja lasów państwowych
+Jaki akt prawny obejmuje zwierzęta ochroną gatunkową na szczeblu państwa?	253	0	Rozporządzenie Ministra Środowiska	Dekret Prezydenta RP	Ustawa sejmowa	Uchwała Naczelnej Rady Łowieckiej
+Naczelnym organem administracji państwowej w zakresie łowiectwa jest	255	3	Rada Ministrów RP	Minister Rolnictwa	Prezydent RP	Minister Środowiska
+Obwody łowieckie dzielą się na	256	0	polne i leśne	stanowiące własność gminy i dzierżawione przez koło łowieckie	państwowe i obwody łowieckie wspólne	prywatne i stanowiące własność gminy
+Obwody łowieckie wydzierżawia się na okres nie krótszy niż	257	3	5 lat	1 rok	25 lat	10 lat
+W jaki sposób pokrywane są szkody w uprawach leśnych	258	1	Koło pokrywa rzeczywiste koszty ochrony upraw leśnych	Koło obowiązane jest do udziału w kosztach ochrony przed szkodami w przypadkach nie zrealizowania rocznego planu łowieckiego. Koszt ten wlicza się do tenuty dzierżawy	odszkodowanie nie przysługuje	Koło płaci odszkodowanie w wysokości rzeczywistej szkody
+Odszkodowanie za szkody wyrządzone przez zwierzynę przysługują w przypadku zniszczenia	259	2	ogrodzenia posesji	we wszystkich przypadkach wymienionych w pkt. a, b oraz c	upraw i płodów rolnych	upraw leśnych
+Odszkodowanie przysługuje za szkody wyrządzone przez	260	2	zwierzynę płową i drobną	rysie, wilki, bobry i dziki	dziki, jelenie, łosie, daniele i sarny	wszystkie zwierzęta łowne
+Skreślenia członka z listy członków koła dokonuje	261	1	okręgowa rada łowiecka lub okręgowy sąd łowiecki	zarząd koła	prezes zarządu koła lub łowczy koła	walne zgromadzenie członków koła	walne zgromadzenie członków koła	zarząd koła lub komisja rewizyjna
+Ponowne przyjęcie członka do koła, z którego listy został skreślony może nastąpić po upływie	262	1	5 lat, na podstawie uchwały wojewódzkiej rady łowieckiej	3 lat, na podstawie uchwały zarządu koła	5 lat, na podstawie uchwały zarządu wojewódzkiego	3 lat, na podstawie uchwały walnego zgromadzenia koła
+Koło łowieckie może być zawiązane przez co najmniej……..osób fizycznych będących członkami Zrzeszenia.	263	3	5	15	25	10
+Przyjęcia koła do Zrzeszenia dokonuje	264	1	Naczelna Rada Łowiecka	zarząd okręgowy PZŁ właściwy ze względu na siedzibę koła	okręgowa rada łowiecka właściwa ze względu na siedzibę koła	Zarząd Główny PZŁ
+Rozwiązanie koła następuje na podstawie uchwały	265	4	1) Zarządu Głównego PZŁ, 2) Naczelnej Rady Łowieckiej	1) zarządu i komisji rewizyjnej koła, 2) okręgowej komisji rewizyjnej	1) walnego zgromadzenia koła podjętej bezwzględną większością głosów, 2) zarządu okręgowego PZŁ	właściwego wg siedziby koła	1) walnego zgromadzenia koła podjętej przez 2/3 ogólnej liczby członków koła, 2) okręgowej rady łowieckiej właściwej wg siedziby koła
+Okręgowa Rada Łowiecka	267	3	wybierana jest przez zarząd okręgowy PZŁ	powoływana jest przez Naczelną Radę Łowiecką	wybierana jest przez właściwy wydział urzędu wojewódzkiego	wybierana jest przez Okręgowy Zjazd Delegatów
+Zarząd Główny PZŁ	268	0	powoływany jest przez Naczelną Radę Łowiecką	powoływany jest przez Ministra Środowiska	wybierany jest przez Krajowy Zjazd Delegatów	składa się z osób delegowanych przez Okręgowe Zjazdy Delegatów
+Zarząd Okręgowy PZŁ	269	1	powoływany jest przez Zarząd Główny PZŁ	powoływany jest przez Okręgową Radę Łowiecką	powoływany jest przez organ administracji państwowej szczebla wojewódzkiego	wybierany jest przez łowczych kół z danego województwa
+Główna Komisja Rewizyjna jest	270	0	organem kontrolnym Naczelnej Rady Łowieckiej	organem kontrolnym Zarządu Główny PZŁ	organem kontrolnym Ministra Środowiska, nadzorującym działalność Związku	organem kontrolnym Krajowego Zjazdu Delegatów
+Główny Sąd Łowiecki jest	271	3	powoływany przez delegatów okręgowych sądów łowieckich	powoływany przez Krajowy Zjazd Delegatów	powoływany przez Zarządu Główny PZŁ	powoływany przez Naczelną Radę Łowiecką
+Okręgowy Sąd Łowiecki jest powoływany przez	272	2	Główny Sąd Łowiecki	Naczelną Radę Łowiecką	Okręgową Radę Łowiecką	Zarząd Okręgowy PZŁ
+Główny Sąd Łowiecki i okręgowe sądy łowieckie powoływane są	273	3	na okres 10 lat	na okres kadencji Naczelnej i okręgowych rad łowieckich	na czas nieokreślony	na okres 5 lat
+Posiadanie uprawnień selekcjonera zwierzyny płowej jest konieczne przy	275	4	dokonywaniu odstrzału zwierzyny płowej	wykonywaniu funkcji podprowadzającego przy polowaniach zbiorowych organizowanych dla myśliwych	zagranicznych	wykonywaniu polowania indywidualnego	dokonywaniu odstrzału samców zwierzyny płowej i wykonywaniu funkcji podprowadzającego myśliwych zagranicznych polujących na samce zwierzyny płowej
+Organami koła są	276	3	walne zgromadzenie koła i zarząd	rada nadzorcza i zebranie delegatów	walne zgromadzenie koła	walne zgromadzenie koła, zarząd i komisja rewizyjna koła
+Wybór delegatów na Okręgowy Zjazd Delegatów należy do kompetencji	277	2	zarządu koła	komisji rewizyjnej koła	walnego zgromadzenia koła	Okręgowej Rady Łowieckiej
+Podejmowanie uchwał w sprawie nabywania i zbywania majątku oraz wysokości zaciąganych przez koło pożyczek należy do kompetencji	278	0	walnego zgromadzenia koła	komisji rewizyjnej koła	zarządu koła	zarządu okręgowego PZŁ
+Zarząd koła wybierany jest na okres	280	2	1 roku	3 lat	5 lat	na czas nieokreślony
+Komisja rewizyjna koła wybierana jest na okres	281	2	1 roku	3 lat	5 lat	na czas nieokreślony
+Członkowie komisji rewizyjnej koła pełnią swe funkcje	282	2	za wynagrodzeniem ustalonym przez Okręgową Radę Łowiecką	za wynagrodzeniem lecz nie może to być główne źródło ich utrzymania	społecznie	za wynagrodzeniem ustalonym przez walne zgromadzenie koła
+Członkowie komisji rewizyjnej koła mogą pełnić swe funkcje przez	283	3	jedną kadencję	dwie kadencje	trzy kadencje	bez ograniczeń kadencyjności
+Budżet koła uchwalany jest przez	284	2	zarząd koła	zarząd okręgowy PZŁ	walne zgromadzenie koła	komisję rewizyjną koła
+Członkowie zarządu koła mogą pełnić swe funkcje przez	285	1	jedną kadencję	bez ograniczeń kadencyjności	dwie kadencje	trzy kadencje
+Zasady przyznawania odstrzałów indywidualnych w obwodach dzierżawionych przez koła łowieckie ustala	286	2	zarząd koła	komisja rewizyjna koła	walne zgromadzenie koła	nadleśnictwo
+Broń z brązu na naszych ziemiach pojawia się w okresie	287	2	ok. 6000 – 5000 lat p.n.e	ok. 3500 – 3000 lat p.n.e	ok. 1900 – 1450 lat p.n.e	ok. 650 – 400 lat p.n.e
+Psów zaczęto w Polsce używać do polowania za czasów panowania	288	1	Bolesława Chrobrego /992-1025/	Kazimierza Wielkiego /1333-1370/	Bolesława Wstydliwego /1243-1279/	Bolesława Krzywoustego /1102-1138/
+Karę śmierci i tortury za przestępstwa łowieckie zniesiono w Polsce	289	1	za panowania Kazimierza Jagiellończyka w r. 1490	za panowania Zygmunta Augusta w r. 1554	za panowania Jana III Sobieskiego w r. 1690	prawem uchwalonym przez Sejm Czteroletni w r. 1790
+W którym roku powstał Centralny Związek Polskich Stowarzyszeń Łowieckich	290	3	1918	1920	1922	1923
+Warszawski Oddział Cesarskiego Towarzystwa Prawidłowego Myślistwa powstał w roku	291	1	1832	1889	1854	1875
+Polski Związek Stowarzyszeń Łowieckich przekształcił się w Polski Związek Łowiecki w roku	292	3	1930	1932	1935	1936
+kraje powołały w r.  Międzynarodową Radę Łowiecką (CIC). Były to następujące kraje	293	1	Polska, Francja, Włochy i Hiszpania	Polska, Francja, Czechosłowacja i Rumunia	Polska, Niemcy, Austria i Włochy	Polska, Czechosłowacja, Włochy i Bułgaria
+W roku  odbył się w Polsce  Kongres CIC – Międzynarodowej Rady Łowieckiej i Ochrony Przyrody. W którym z wymienionych miast	294	0	Kraków	Wrocław	Poznań	Warszawa
+grudnia  r. ukazał się ważny dla łowiectwa akt prawny, a mianowicie	295	3	„Ustawa o łowiectwie”	„Polska Krajowa Ustawa Łowiecka”	„Ustawa łowiecka Rzeczypospolitej Polskiej”	„Rozporządzenie Prezydenta RP o prawie łowieckim”
+Galicyjskie Towarzystwo Łowieckie po I Wojnie Światowej zmieniło nazwę. Na jaką	296	0	Małopolskie Towarzystwo Łowieckie	Południowe Towarzystwo Łowieckie	Wschodnie Towarzystwo Łowieckie	Lwowskie Towarzystwo Łowieckie
+Które z województw II Rzeczypospolitej miało odrębną ustawę łowiecką	297	2	wileńskie	lwowskie	śląskie	warszawskie
+Pierwsze prawo o czasach ochronnych wprowadził	298	0	Władysław Jagiełło	Jan Olbracht	Stefan Batory	Jan Kazimierz
+Etyka łowiecka to	299	3	zbiór zasad, uchwalony przez Krajowy Zjazd Delegatów PZŁ	przepisy wynikające ze Statutu Koła łowieckiego	przepisy określone Ustawą łowiecką	niepisany kodeks moralny myśliwego
+Który z poniższych aktów prawnych nie zawiera wzmianki o obowiązku przestrzegania zasad etyki łowieckiej	300	3	wszystkie odpowiedzi są niepoprawne	Statut PZŁ z 20.11.1999 r	Ramowy Statut Koła Łowieckiego	Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa w sprawie zasad i warunków wykonywania polowania z dnia 4. 04 1997 r. z późniejszą nowelizacją 	Ustawa Prawo Łowieckie z 13.10.1995 r
+Za nieetyczne uważa się	301	2	strzelanie do sznurującego lisa	strzelanie do ciągnącej słonki	strzelanie w środek stada kuropatw	strzelanie do defilującego zająca
+Etyka łowiecka w stosunku do przyrody obejmuje	302	1	tylko zwierzęta łowne	wszelkie dobra przyrody	tylko zwierzęta łowne i chronione	tylko zwierzęta dziko żyjące i domowe
+Pokot po każdym polowaniu zbiorowym urządza się	303	3	o ile jest odnośna uchwała walnego zgromadzenia koła	gdy zażądają tego uczestnicy polowania	tylko w przypadku doskonałych wyników polowania	gdyż jest to obowiązek organizacyjny
+Na polowaniu zbiorowym padły dziki, bażanty, zające i lisy. Jak należy ułożyć pokot	305	3	Bażant, lis, dzik, zając	żadna z powyższych odpowiedzi nie jest poprawna	Lis, dzik, zając, bażant	Dzik, Lis, zając, bażant
+„Złom” może być wręczony w postaci gałązki	306	0	każdej rośliny typowej dla miejsca polowania	tylko gałązki jodły	tylko gałązki drzewa iglastego	tylko gałązki drzewa liściastego
+Zgodnie z tradycją ceremoniału pasowania na myśliwego dokonuje się	307	2	z chwilą odebrania ślubowania od myśliwego	po strzeleniu pierwszej w życiu sztuki zwierzyny	po strzeleniu pierwszej w życiu sztuki zwierzyny grubej	z chwilą udziału w pierwszym polowaniu
+Początki polskiej gwary myśliwskiej sięgają czasów	308	1	panowania Bolesława Chrobrego	panowania Kazimierza Wielkiego	przedhistorycznych	panowania Zygmunta III Wazy
+Autorem najstarszego polskiego słownika łowieckiego jest	309	2	Stanisław Hoppe	Marek P. Krzemień	Wiktor Kozłowki	Edward Szałapak
+Chrzest myśliwski to	310	3	ceremonia przyjęcia do koła łowieckiego	udział w pierwszym polowaniu zbiorowym	niezamierzona „kąpiel” w czasie polowania na kaczki	oznaczenia myśliwego farbą pierwszej zdobyczy
+Najwyższe odznaczenie łowieckie „Złom” ma formę	311	3	medalu	krzyża	plakietki	żetonu
+Medal św. Huberta przyznaje się za	312	3	25 lat członkostwa w PZŁ	wybitne zasługi w dziedzinie hodowli zwierzyny	pracę w łowieckich organizacjach międzynarodowych	zasługi na polu szerzenia kultury i pielęgnacji tradycji łowieckich
+Kiedy na polowaniu zbiorowym gra się sygnał „Darz Bór”	313	2	podczas zbiórki myśliwych przed pierwszym miotem	na zakończenie miotu, w którym padła pierwsza sztuka zwierzyny	na zakończenie polowania po ułożeniu pokotu	tylko na początku polowania wigilijnego
+„Chody” to w języku łowieckim	314	1	pora godowa jenota	sposób poruszania się psa myśliwskiego w terenie	polowanie „na deptaka”	trasa, którą zwierz najchętniej chodzi
+Klangor to głos wydawany przez lecące ptaki. Jakie?	315	3	dzikie gęsi	łabędzie	gawrony	żurawie
+Baranek - to inaczej	316	0	bekas kszyk	wabik na wilki	młody muflon	zimowa suknia kozicy
+Drzewo, na którym zasiadł na noc głuszec nazywa się	317	2	przysiad	dosiad	siadło	sadowisko
+Mikot to	318	0	wabik używany do wabienia kozłów	kłusownicza pułapka na ptaki	gwarowa nazwa zająca	młody ryś
+Czuszykanie to w gwarze myśliwskiej	319	1	głos kuropatwy, zwołującej młode	głos tokującego koguta cietrzewia	głos zaniepokojonego puchacza	inaczej parskanie rozdrażnionego rysia lub żbika
+Ścinka to	320	0	obcięta kulą sierść zwierza	ścieżka skracająca drogę	lekkie zranienie zwierza	podpórka z obciętej gałęzi
+Klapak to	321	1	ogon bobra	młoda nielotna dzika kaczka	rodzaj kołatki dla naganki	pies o zbyt długich uszach
+Rzymską boginią lasów, zwierząt i łowów była	322	1	Artemida	Diana	Pomona	Demeter
+Św. Hubert żył w latach	323	0	655 - 727	901 - 970	423 - 492	1213 - 1282
+Św. Hubert, patron myśliwych, był biskupem w	324	0	Li&egrave;ge, na terenie obecnej Belgii	Lübeck /Lubeka/ na terenie północnych Niemiec	Livorno, na terenie środkowych Włoch	Lille, w pólnocno-wschodniej Francji
+Malowidła naskalne o treści łowieckiej pochodzą z przed około	325	1	100 000 lat	20 000 lat	2 000 lat	1 000 lat
+Słynne gobeliny (arrasy) o tematyce myśliwskiej powstały	326	1	w Styrii	we Flandrii	w Bawarii	w Normandii
+Muzeum Łowiectwa i Jeździectwa znajduje się	327	1	w Krakowie	w Warszawie	w Białowieży	w Poznaniu
+Który z tych malarzy tworzył m.in. dzieła o tematyce łowieckiej?	328	1	Henri Matisse	Peter Paul Rubens	Rafael (Raffaelo Santi)	Amadeo Modigliani
+„Rok myśliwca” Wincentego Pola zilustrował	329	3	Jerzy Kossak	Wojciech Kossak	Franciszek Kostrzewski	Juliusz Kossak
+Zimowy pejzaż i wilki – to tematyka wielu obrazów	330	3	Maksymiliana Gierymskiego	Józefa Brandta	Józefa Chełmońskiego	Alfreda Wierusza Kowalskiego
+Który z wymienionych twórców był jednocześnie pisarzem, rysownikiem, fotografikiem i podróżnikiem?	331	0	Włodzimierz Korsak	Julian Ejsmond	Bohdan Dyakowski	Konrad Machczyński
+Jeden z tych twórców nie malował obrazów o tematyce łowieckiej. Który?	332	0	Tadeusz Makowski (1882-1932)	Julian Fałat (1853-1929)	Józef Brandt (1841-1915)	Wojciech Kossak (1857-1942)
+„Ogary poszły w las” – tak zaczyna się	333	2	„Potop” Henryka Sienkiewicza	IV księga „Pana Tadeusza” Adama Mickiewicza	„Popioły” Stefana Żeromskiego	„Stara baśń” Józefa Ignacego Kraszewskiego
+Na Światowej Wystawie Łowieckiej w Berlinie w r.  medal za obraz „Św. Hubert” otrzymał	334	3	Jarosław Kirilenko	Włodzimierz Korsak	Wojciech Kossak	Jerzy Kossak
+Kto jest autorem dzieła pt. „Soból i panna”	335	1	Julian Ejsmond	Józef Weyssenhoff	Janusz Meissner	Arkady Fiedler
+Który z wymienionych pisarzy nie jest autorem książki pt. „Rok Myśliwego”?	336	3	Czesław Miłosz	Włodzimierz Korsak	Roman Bratny	Wincenty Pol
+„Nauka łowiectwa we dwóch tomach” to praca 	337	2	Waleriana Kurowskiego	Wiktora Kozłowskiego	Ignacego Bobiatyńskiego	Lucjana Siemieńskiego
+Autorem jednego z poniższych dzieł nie jest Józef Weyssenhoff. Którego?	338	3	„Puszcza”	„Żywot i myśli Zygmunta Podfilipskiego”	„Soból i panna”	„Wielkie łowy”
+Ludwik Niedbał, autor m.in. książki „Z łowisk wielkopolskich” był	339	1	malarzem	księdzem	leśnikiem	rolnikiem
+Kto jest autorem wydanego w r.  dzieła pt. „Myśliwiec”?	340	2	Mateusz Cygański	Jan Kochanowski	Tomasz Bielawski	Sebastian Fabian Klonowicz
+Czy „olifant” to	341	2	ozdobna prochownica myśliwska	rodzaj kordelasa	dawny róg myśliwski z kości słoniowej	skałkowa broń myśliwska
+Który z tych kompozytorów skomponował „Kantatę myśliwską”?	342	2	Stanisław Moniuszko	Krzysztof Penderecki	Jen Sebastian Bach	George Gershwin
+W XVIII wieku ulubionym instrumentem myśliwskim staje się	343	1	fagot	waltornia	obój	klarnet
+Sygnałówka myśliwska, tzw. „plessówka” powstała w	344	2	w Pilznie	w Pleszewie	w Pszczynie	w Płocku
+Wychodzące we Lwowie w latach - pismo łowieckie nosiło tytuł	345	3	„Łowiec Małopolski”	„Łowiec Galicyjski”	„Łowiec Lwowski”	„Łowiec”
+„Łowiec Polski” obecnie ukazuje się jako	346	1	kwartalnik	miesięcznik	tygodnik	dwutygodnik
+Największym wydawcą literatury łowieckiej w Polsce jest obecnie	347	2	„Państwowe Wydawnictwo Rolnicze i Leśne”	„Czytelnik”	„Łowiec Polski” Sp. z o.o	Państwowy Instytut Wydawniczy
+W roku  „Łowiec Polski” obchodził	348	0	100-lecie istnienia	25-lecie istnienia	50-lecie istnienia	75-lecie istnienia
+Konkurs fotograficzny im. W. Puchalskiego organizuje od  r.	349	3	Rada Naczelna PZŁ	Klub Kolekcjonera i Kultury Łowieckiej	Związek Polskich Artystów Fotografików	Wydawnictwo „Łowiec Polski”
+Jednym z zabiegów hodowlanych jest przesiedlanie zwierzyny. Jakiego gatunku zwierzęta łowne introdukuje się w Polsce na dużą skalę	351	0	bażanty	kaczki	zające	kuropatwy
+Największe w szkody w gospodarce leśnej powodują	352	3	dziki	lisy	zające	jelenie
+Lizawki służą do podawania	353	0	soli z mikroelementami	granulatów i kiszonek	liściarki	karmy treściwej
+Biotopem leśnym nazywamy	354	2	zbiorowisko roślin zielonych	świat zwierząt dziko żyjących	środowisko życia biocenozy leśnej	zbiorowisko roślin drzewiastych
+Zanieczyszczenie atmosfery wywołało szkody fizjologiczne w polskich lasach	355	0	w około 50% powierzchni lasów	w około 5% powierzchni lasów	w około 9% powierzchni lasów	nie znaczące gospodarczo
+Stres u zwierzyny powoduje między innymi	356	1	zwiększoną przemianę materii	zmniejszenie zapotrzebowania na pokarm	nie ma znaczenia w procesach fizjologicznych	zaleganie zwierzyny w odsłoniętych miejscach
+Największy udział w dokarmianiu dzikich przeżuwaczy powinna stanowić karma	357	3	treściwa	granulaty	objętościowa soczysta	objętościowa sucha
+Udział granulatów w podawanej karmie może wynosić	358	2	40% - 60%	ponad 80%	do 20%	ok. 70%
+Dni głodowe u zwierzyny to te dni, w których zwierzyna znajduje	359	1	80% potrzebnego żeru	połowę jej żeru	70% potrzebnego żeru	pokarm w ilości zapewniającej jej tylko utrzymnie procesów życiowych
+Najlepszą metodą inwentaryzacyjni jeleniowatych jest zastosowanie	360	0	pędzeń próbnych	tropienie wokół wyznaczonych powierzchni	metoda selektywnego odstrzału	liczenie zwierząt wychodzących na otwarte przestrzenie
+Racjonalny kierunek gospodarki łowieckiej, to	361	3	zaniechanie dokarmiania liściarką i zwiększony odstrzał zwierzyny w średnim wieku	zwiększenie pozyskania samców, a oszczędzanie samic i całoroczne dokarmianie wysoko energetyczną karmą, jak np. kukurydza	zwiększenie pozyskania osobników starych i koncentracja dokarmiania	poprawa naturalnych warunków żerowych, pozyskanie zwierzyny na poziomie rocznego przyrostu naturalnego i regulacja struktury w kierunku postarzenia struktury
+Prawidłowa struktura płci w populacji jelenia wynosi	362	1	1 : 2 na korzyść byków	1 : 2 na korzyść łań	1 : 1	1 : 5 na korzyść łań
+Przyrost zrealizowany u dzików wynosi	363	0	100 - 150 % wiosennego stanu pogłowia	20 % wiosennego stanu pogłowia	400% wiosennego stanu pogłowia	30 %
+Znajomość stanu liczebnego pogłowia zwierzyny jest niezbędna do właściwego prowadzenia gospodarki łowieckiej. Do oceny liczebności zajęcy służy metoda	364	1	tropienia	taksakcji pasowej	pędzeń próbnych	odłowów
+Do dokarmiania zimowego zwierzyny płowej stosuje się m. innymi karmę suchą objętościową. Należy do niej	365	3	ziemniaki	poślad	ziarno owsa, kiszonka, kukurydza, marchew	liściarka, siano z koniczyny, siano łąkowe
+Który ze sposobów inwentaryzacji należy do tzw. metod bezpośrednich	366	0	pędzenie całych kompleksów	taksacja pasowa przy użyciu wabika	liczenie ptaków z jednego stanowiska na podstawie głosów	tropienie na transekcie
+Która z metod inwentaryzacji należy do grupy tzw. inwentaryzacji pośredniej	367	2	pędzenia próbne	taksacja pasowa	tropienie wokół wyznaczonych powierzchni	liczenie zwierząt wychodzących na otwarte przestrzenie
+Liściarka należy do karmy	369	3	objętościowej soczystej	treściwej	granulatów	objętościowej suchej
+Ziemniaki, marchew, kiszonki należą do karmy	370	1	objętościowej suchej	objętościowej soczystej	treściwej	granulatów
+Który ze składników karmy zawiera najwięcej białka	371	3	1 kg ziaren owsa	1 kg słomy owsianej	1 kg słomy pszennej	1 kg koniczyny
+Który z podanych siedliskowych typów lasu jest najbardziej wartościowy dla zwierzyny pod względem ilości i dostępności pokarmu	372	0	bór mieszany świeży	ols jesionowy	bór suchy	bór bagienny
+Przyrost zrealizowany u jeleni wynosi	373	2	10 % wszystkich osobników żeńskich na dzień 1 kwietnia	20 % wszystkich osobników żeńskich na dzień 1 kwietnia	65 % wszystkich osobników żeńskich na dzień 1 kwietnia	100 % wszystkich osobników żeńskich na dzień 1 kwietnia
+I stopień uszkodzeń młodników od zwierzyny polega na	374	0	powierzchniowym, jednostronnym uszkodzeniu kory do 1/3 obwodu drzewka	złamanie drzewka u nasady szyi korzeniowej	ogryzieniu kory powyżej połowy obwodu drzewka	złamanie drzewka na wysokości 1/3 wysokości
+Jaka jest struktura płci u nowonarodzonych saren	375	0	1:1	1:2 na korzyść koźląt płci żeńskiej	1:2 na korzyść koźląt płci męskiej	1:3 na korzyść koźląt płci żeńskiej
+Co to jest odstrzał selekcyjny	376	1	usuwanie z populacji tylko osobników płci męskiej	usuwanie z populacji osobników niepożądanych	usuwanie z populacji osobników przypadkowo spotkanych	usuwanie z populacji osobników młodocianych
+Przydatnymi roślinami na poletku żerowym dla dzików mogą być	377	3	rzepa, jarmuż, koniczyna	żyto ozime i jare	owies, kukurydza, topinambur, ziemniaki	cykoria, lucerna, seradela
+Co to jest poletko żerowe	378	0	powierzchnie obsiane lub obsadzone roślinami służącymi zwierzynie jako żer na pniu	powierzchnie obsiane roślinami, trwale ogrodzone, z których koło łowieckie pozyskuje karmę na okres zimowy	powierzchnie pozostawione bez zagospodarowania w celu naturalnego wysiewu występujących tam roślin	powierzchnie trwale ogrodzone, na których koło łowieckie prowadzi sprawdzenia udatności kiełkowania roślin
+Jaki powinien być plan odstrzału saren w populacji ustabilizowanej i prawidłowo zagospodarowanej	379	1	80 % stanu wiosennego	20 % stanu wiosennego	40 % stanu wiosennego	60 % stanu wiosennego
+Ile powinien wynosić odstrzał cieląt w stosunku do wszystkich jeleni przewidzianych do odstrzału w populacji ustabilizowanej	380	3	70 %	50 %	5 %	10 – 20 %
+Ile dni głodowych jest przewidywane w ciągu roku w słabych łowiskach górskich	381	3	ok. 10	ok. 20	ok. 30	ok. 50
+Czy należy kierować się przy wyborze miejsca na poletko żerowe	382	0	wszystkie odpowiedzi są poprawne	urodzajnością i wilgotnością gleby	spokojem żerującej zwierzyny	możliwością szybkiego ukrycia się zwierzyny w momencie niebezpieczeństwa
+Dla podtrzymania temperatury ciała zwierzyny niezbędne jest	383	3	intensywniejsze wykładanie soli	zaleganie jej w młodnikach osłaniających przed silnymi wiatrami	podawanie wysokobiałkowej karmy	jej poruszanie się
+Najbardziej trwałym sposobem zabezpieczenia upraw przed szkodami od zwierzyny jest	384	0	grodzenie siatką	grodzenie żerdziami	wynajęcie osób do pilnowania	zastosowanie repelentów
+Czym należy kierować się ustalając intensywność zimowego dokarmiania	385	0	wszystkie odpowiedzi są poprawne	ilością zwierzyny	jakością i ilością runa zimozielonego, krzewów i podszytów	długością okresu zimowego
+Jak transportujemy ptactwo w czasie polowania	386	2	w torbie myśliwskiej	powiązane w pęczki	pojedynczo na trokach	w specjalnej siatce na ptactwo
+Kulkowanie to	387	3	odlewanie kul ołowianych lub śrutu	poruszanie się łodzią na pych	poruszanie się o kulach	wyciąganie z jamy brzusznej ptactwa jelit
+Po upolowaniu zająca (przed oddaniem tuszki na karawan) należy	388	0	opróżnić pęcherz przez wyciśnięcie dłonią moczu	owinąć głowę papierem i przewiązać sznurkiem	wyszczotkować turzycę	przewiązać tylne i przednie skoki
+Schładzanie upolowanej dziczyzny to	389	0	studzenie w przewiewnych, zacienionych miejscach lub w specjalnych pomieszczeniach	przetrzymywanie w chłodni przez okres nie mniejszy niż 7 dni	poddanie procesowi mrożenia	nadmuchiwanie powietrzem
+Obielanie to	390	3	zdejmowanie skóry z dzikiego ptactwa	malowanie pni drzew owocowych wapnem	odcinanie oręża czy poroża	zdejmowanie skór z upolowanej zwierzyny
+Najlepszy sposób konserwacji skór lub futer przed wyprawianiem to	391	3	mrożenie	nie wymagają konserwacji	solenie (dwukrotne)	suszenie
+Patroszenie zwierzyny to czynność, którą wykonujemy w	392	3	dowolnym czasie	po wystudzeniu i stężeniu pośmiertnym	przed oddaniem do punktu skupu	natychmiast po upolowaniu zwierzyny
+Czyszczenie sukni to	393	3	wycieranie w wawrzysku lub kąpielisku	zabieg higieniczny wykonywany przez zwierzynę łowną	czyszczenie zabrudzonego ubrania lub okrycia myśliwego	przygotowanie tuszy do oddania w punkcie skupu
+Czeski Fousek to pies z grupy	394	0	wyżłów	posokowców	płochaczy	gończych
+W terminologii kynologiczno-łowieckiej pole to	395	3	styl pracy psa myśliwskiego	przekładanie polo zygzakiem przez psa	zmysł powonienia psa	kalendarzowy rok polowania psa, określenie jego wieku
+Norowce to	396	2	polskie rasy psów gończych	zdziczałe psy zamieszkujące nory	grupa psów posiadająca cechy umożliwiające pracę pod ziemią, np. jamniki, teriery	psy myśliwskie pracujące na ciepłych tropach
+Teriery to	397	1	psy pasterskie	doskonałe dzikarze, norowce, dobre płochacze	ze względu na wrodzoną stójkę doskonałe do polowania na pióro	rasa nie nadająca się do polowania
+Czy jamniki mogą być używane jako płochacze?	398	3	nie mogą	mogą ale nie jest to wskazane	mogą ale tylko w lesie	tak mogą
+Do grupy płochaczy zaliczamy	399	1	jamnik szorstkowłosy	Coker spaniel	wyżeł niemiecki szorstkowłosy	Gończy polski
+Czy kierunek wiatru ma znaczenie podczas pracy psa w polu	400	0	ma – pies powinien pracować pod wiatr	nie ma żadnego znaczenia	pies pracujący w polu np. wyżeł musi pracować z wiatrem	najlepszy jest wiatr boczny
+Do poszukiwania postrzałków zwierzyny grubej używamy psów rasy	401	2	każdej z wymienionych ras odpowiednio ułożonej do tropienia po farbie	jamnik szorstkowłosy	posokowiec	terier
+Wachtelhund to	402	3	wyżeł brytyjski	terier	wyżeł kontynentalny	płochacz
+Najlepsze cechy przydatne do tropienia po farbie posiadają psy z grupy	403	3	norowców	terierów	płochaczy	posokowców
+Seter irlandzki należy do grupy	404	1	posokowców	wyżłów	płochaczy	gończych
+Ogar Polski należy do grupy	405	1	płochaczy	gończych	wyżłów	posokowców
+Pointer najlepiej nadaje się do polowania na	406	3	ptactwo wodne zwłaszcza w zimne dni	zwierzynę grubą zwłaszcza czarną	lisy	bażanty, kuropatwy – idealny w suchym polu
+Stójka to wrodzona cecha	407	1	jamników	wyżłów	terierów	płochaczy
+Labradory to typowe	408	2	dzikarze	norowce	aportery	wyżły
+Legawce, określenie dotyczy	409	2	psów nie nadających do polowania	psów, które w powolny, leniwy sposób okładają pole	wyżłów	tropowców
+Polowanie na dziki z użyciem psów może odbywać się	410	1	od 1 września do 15 stycznia	od 1 października do 31 stycznia	cały rok	przez cały sezon polowań na dziki
+W kynologii łowieckiej pies, którego nazywa się grabarzem to	411	0	pies, który zakopuje lub pozostawia w ukryciu strzeloną lub wytropioną zwierzynę	pies, który pracuje pod ziemią – norowiec	pies, który pożera upolowaną zwierzynę	pies, który potrafi zdławić postrzeloną zwierzynę
+Nacinanie lub narzynanie zwierzyny w pojęciu kynologii łowieckiej to	412	1	kaleczenie zwierzyny podczas gonu	wyrywanie, wyszarpywanie tuszy upolowanej zwierzyny lub jej pożeranie	gwałtowne chwytanie przez psa zabitej lub postrzelonej zwierzyny drobnej, podrzucanie jej a następnie silne ściskanie	zakopywanie lub pozostawianie w ukryciu upolowanej zwierzyny
+Memłanie to	413	0	gwałtowne chwytanie przez psa zabitej lub postrzelonej zwierzyny drobnej, podrzucanie jej a następnie silne ściskanie	powolne i niedokładne okładanie pola przez psa	pożeranie upolowanej zwierzyny	zakopywanie przez psa ustrzelonej zwierzyny
+Do jakiej grupy zaliczamy jamnika szorstkowłosego	414	0	tropowce, norowce, dzikarze	płochacze	wyżły	aportery
+Oszczekiwacz to	415	0	pies, który po dojściu martwej zwierzyny głosi ją do momentu przyjścia do niego właściciela	norowiec, który po wejściu do nory oszczekuje znajdującego się w niej żywego lisa lub borsuka	pies, który po dojściu do postrzałka wraca do myśliwego i swoim zachowaniem – radosnym poszczekiwaniem	popiskiwaniem zawraca w kierunku zwierzyny	pies, który potrafi oszczekać dzika w zagrodzie
+Oznajmiacz lub anonsjer to	416	0	pies, który pod dojściu do martwego postrzałka wraca samodzielnie do myśliwego i swoim zachowaniem – poszczekiwaniem, skomleniem zawraca w kierunku zwierzyny doprowadzając do niej myśliwego	pies z grupy płochaczy, który szczekając wypłasza ukrytą w zaroślach polnych zwierzynę drobną	pies, który oszczekuje martwą zwierzynę do momentu przyjścia do niego myśliwego	pies, który wyje i szczeka przy martwej zwierzynie
+Respektowanie zwierzyny przez psa jest to	417	2	zawziętość, zajadłość psa przy atakowaniu zwierza	gonienie każdej napotkanej w łowisku zwierzyny	obojętne zachowanie się wobec innej zwierzyny niż ta, na którą pies został ułożony	wystawianie tylko jednego gatunku zwierzyny przez psa
+Otok jest to	418	2	określenie te dotyczy uczenia posłuszeństwa i karności psa	specjalna obroża, którą zakłada się psu pracującemu na tropie postrzelonej zwierzyny	linka lub rzemień długości 5 – 9 m służące do prowadzenia psa w czasie jego pracy na tropie	ozdoba myśliwskiego kapelusza
+Określenie, że pies tropi w piętkę oznacza	419	2	pies, który dochodzi do postrzałka wraca do przewodnika i w określony sposób informuje doprowadzając go do strzelonej zwierzyny	że pies tropi z nosem przy ziemi na wysokości pięt myśliwego	że pies tropi wstecz, w kierunku skąd trop prowadzi	że pies tropi zwierzę, które zostało postrzelone w tylną cewkę, badyl lub rapetę
+Jak określić typ psychiczny psa, który jest wyjątkowo nieufny, lękliwy, boi się strzału, grzmotu pioruna, przejawia lęk przed zwierzyną	420	3	typ powściągliwy	typ niezrównoważony (pobudliwy)	typ zrównoważony	typ słaby (melancholik)
+W kynologii słowo eksterier oznacza	421	2	psa z grupy terierów	przydatność użytkową psa	wygląd zewnętrzny psa, budowę, kształt, proporcje	teriera myśliwskiego wyszkolonego do tropienie postrzałków
+Łoże w pojęciu kynologii łowieckiej oznacza	423	1	miejsce odpoczynku psa myśliwskiego w kojcu	miejsce, w którym zaległa postrzelona zwierzyna pozostawiając więcej farby, rozgarniętą lub ugniecioną ściółkę	posłanie psa w domu	pozostawienie inaczej odłożenie psa przez menera w pozycji leżącej – warującej
+Babrzysko - grząskie błotne miejsce w lesie lub na obrzeżu jeziora, gdzie	2239	0	w porze letniej tarzają się jelenie i dziki	bobry buduja jamy z wejściem ukrytym pod wodą	w porze jesiennej kąpią się sarny, jelenie	w porze letniej tarzają się dziki
+Istotne części broni myśliwskiej śrutowej to	2254	2	baskila i język spustowy	osada i muszka	baskila i lufa	lufa i szczerbinka
+Właściwy organ Policji wraz z pozwoleniem wydaje zaświadczenie uprawniające do nabycia broni w terminie	2256	2	2 miesięcy	14 dni	miesiąca	3 miesięcy
+W pozwoleniu na broń, wydanym w drodze administracyjnej określa się m.in.	2257	0	cel w jakim zostało wydane	wartość broni	długość broni	masę broni
+Nabywca broni zobowiązany jest zarejestrować ją w ciągu	2258	1	2 dni	5 dni	7 dni	14 dni
+Rejestracji broni dokonuje właściwy organ Policji na podstawie	2259	3	fotografii broni	stanu technicznego broni	pozwolenia na zakup	dowodu nabycia
+Myśliwy może nabyć amunicję do	2260	1	broni myśliwskiej oraz sportowej	broni, która jest określona w jego legitymacji posiadacza broni	broni krótkiej	każdej broni palnej
+Dopuszcza się zbywanie broni i amunicji do tej broni pomiędzy	2261	3	członkami tego samego koła łowieckiego	funkcjonariuszami Policji	członkami PZŁ, z co najmniej 3 - letnim stażem	osobami posiadającymi promesę na ten rodzaj broni
+Broń do celów łowieckich oraz amunicję do tej broni można użyczać osobom, które	2262	2	są członkami PZŁ	użyczanie broni jest zabronione	posiadają pozwolenie na broń do celów łowieckich	posiadają broń sportową
+Osoba posiadająca pozwolenie na broń, w razie zmiany miejsca zamieszkania, jest obowiązana	2263	2	w terminie 7 dni od dnia zmiany miejsca zamieszkania zawiadomić właściwy ZO PZŁ	niezwłocznie zawiadomić o tym fakcie najbliższy posterunek Policji	w terminie 14 dni od dnia zmiany miejsca zamieszkania zawiadomić o tym fakcie organ Policji właściwy ze 	względu na nowe miejsce zamieszkania nie ma obowiązku informowania o miejscu zamieszkania
+Osoby posiadające broń i amunicję na podstawie pozwolenia na broń obowiązane są przechowywać broń	2264	1	w stojakach na trwałe przymocowanych do ściany	w metalowych szafach albo sejfach posiadających zamki atestowane	w drewnianych szafach, z co najmniej dwoma atestowanymi zamkami	w futerale, w stanie rozładowanym
+W środkach transportu publicznego służących do przewozu pasażerów broń wolno przewozić	2265	0	rozładowaną i znajdującą się w futerale	tylko w dni ustawowo wolne od pracy	rozładowaną, bez amunicji w komorze nabojowej i w magazynkach nabojowych	przewożenie broni w środkach transportu publicznego jest niedozwolone
+Przywóz broni i amunicji z zagranicy przez obywatela polskiego, wymaga	2266	0	wydania zaświadczenia przez właściwego konsula RP	pozwolenia wydanego przez Komendanta Głównego Policji	przywóz broni i amunicji z zagranicy jest zabroniony	pisemnej zgody ZO PZŁ
+Myśliwy wyjeżdżający z własną bronią na polowanie za granicę RP musi posiadać	2267	3	zgodę na wywóz broni i amunicji wydaną przez biuro polowań	zaświadczenie o przystrzelaniu broni	zaświadczenie o stanie technicznym broni	zgodę na wywóz broni i amunicji wydaną przez właściwy organ Policji
+Posiadacz broni w przypadku jej utraty jest obowiązany	2268	1	w ciągu 7 dni od stwierdzenia jej utraty zawiadomić najbliższy posterunek Policji	niezwłocznie, nie później jednak niż w ciągu 24 godzin od stwierdzenia jej utraty zawiadomić o tym Policję 	w ciągu 5 dni od stwierdzenia jej utraty zawiadomić Komendę Wojewódzką Policji	w ciągu 48 godzin zawiadomić o tym Policję i Straż Graniczną
+Kto bez wymaganego zezwolenia posiada broń palną lub amunicję podlega karze	2269	0	pozbawienia wolności od 6 miesięcy do 8 lat	pozbawienia wolności do lat 5	ograniczenia wolności lub pozbawienia wolności do roku	grzywny
+Kto posiada broń, nie mając przy sobie legitymacji posiadacza broni, podlega karze	2270	3	pozbawienia wolności do roku	pozbawienia wolności od 6 miesięcy do 2 lat	ograniczenia wolności	grzywny
+Amunicję przewozi się środkami transportu publicznego	2271	1	w futerale razem z bronią	przy zachowaniu niezbędnych wymogów bezpieczeństwa, wykluczających przypadkową eksplozję 	w metalowych atestowanych pudełkach	tylko za wyrażoną zgodą przewoźnika
+W pasażerskich statkach powietrznych broń i amunicję przewozi się	2272	1	tylko w kabinie pilotów	w lukach bagażowych lub w miejscu wskazanym przez przewoźnika	przewożenie jest absolutnie zabronione	na pokładzie pasażerskim, w futerale, w stanie rozładowanym w sposób uniemożliwiający dostęp osób nieuprawnionych
+O wykluczeniu członka PZŁ ze Zrzeszenia za dopuszczenie się przewinienia łowieckiego decyduje	2274	1	Zarząd Okręgowy PZŁ	Właściwy Sąd Łowiecki	Okręgowy Rzecznik Dyscyplinarny	Walne Zgromadzenie Koła
+Na który z niżej wymienionych ptaków nie wolno polować	2278	0	Cietrzew	Gęś zbożowa	Kaczka krzyżówka	Bażant
+Która z wymienionych kaczek objęta jest całoroczna ochroną	2279	1	Czernica	Ohar	Głowienka	Cyraneczka
+Który przedstawiciel jeleniowatych jest aktualnie objęty moratorium	2280	1	Jeleń sika	Łoś	Jeleń szlachetny	Daniel
+Jaką zwierzynę zaliczamy do czarnej	2281	1	muflony, wilki	dziki, muflony	lisy, jenoty, borsuki	wiki, dziki
+Który z wymienionych gatunków należy do zwierząt łownych	2282	1	Ryś	Piżmak	Gronostaj	Wiewiórka
+Który z wymienionych gatunków należy do zwierząt łownych	2283	0	zając	kozica	wilk	gronostaj
+W którym z wymienionych województw okres polowań na dzikie gęsi jest wydłużony	2284	0	Zachodniopomorskie	Podkarpackie	Mazowieckie	Podlaskie
+Na które kaczki możemy polować	2285	1	łyska, cyraneczki, cyranki i czernice	krzyżówki, cyraneczki, głowienki i czernica	krzyżówki, cyraneczki, głowienki i grzywienka	krzyżówki, cyranki, krzywonos i czernice
+Czy okres polowań na sarny kozy przypada w tym samym okresie co na sarny kozły	2286	1	Tak	Nie	Tak pod warunkiem, że plan odstrzału zakłada taką samą ilość kóz i kozłów	Tak, jeśli propozycję powyższą uchwali Walne Zgromadzenie Koła
+Jaki akt prawny określa listę zwierząt łownych	2287	1	Uchwała Naczelnej Rady Łowieckiej	Rozporządzenie Ministra Środowiska	Ustawa	Zarządzenie Głównego Konserwatora Przyrody
+Na które kuraki jest okreslony okres polowań	2288	3	głuszec	cietrzew	przepiórka	kuropatwa
+W jakim miesiącu nie polujemy na dziki	2289	2	Grudniu	Styczniu	brak prawidłowej odpowiedzi	Kwietniu
+Która z niżej wymienionych gatunków gęsi objęta jest całoroczną ochroną	2291	2	Gęgawa	Białoczelna	Mała	Zbożowa
+Do zwierząt łownych zaliczamy	2292	3	norki amerykańskie, bobry i szopy pracze	norki europejskie, jenoty i szopy pracze	norki amerykańskie, wiewiórki i szopy pracze	norki amerykańskie, jenoty i szopy pracze
+Na który z niżej wymienionych gatunków okres polowań jest najdłuższy	2293	3	jelenie łanie	sarny kozy	zające szaraki	lisy
+Gdzie wolno polować na kury bażanta	2294	1	na terenach ogródków działkowych	w Ośrodkach Hodowli Zwierzyny	w obwodach łowieckich po uzyskaniu zgody macierzystego Zarządu Okręgowego PZŁ	w obwodach wyłączonych po uzyskaniu pozytywnej opinii Wojewódzkiego Konserwatora Przyrody
+Na który z niżej wymienionych drapieżników możemy polować	2295	0	kuna leśna	żbik	wilk	ryś
+W którym roku zostało wydane aktualnie obowiązujące Rozporządzenie Ministra Środowiska w sprawie listy zwierząt łownych	2296	1	2000	2005	1998	1995
+Który z niżej wymienionych drapieżników podlega całorocznej ochronie	2297	0	Łasica	Borsuk	Tchórz	Jenot
+Myśliwy zajmuje stanowisko w miejscu wskazanym mu przez rozprowadzającego, przy czym wolno mu	2299	0	przesunąć się nie więcej niż trzy metry w prawo lub w lewo wzdłuż linii myśliwych	nie wolno mu zmieniać miejsca	zmienić miejsce na bardziej dogodne z zachwaniem warunków bezpieczeństwa	przesunąć się o około trzy metry w przód lub do tyłu
+Na polowaniu zbiorowym myśliwy jest obowiązany posiadać na wierzchnim okryciu	2300	1	elementy maskujące stosowne do warunków atmosferycznych	jaskrawe elementy garderoby, zapewniające jego dobrą widzialność przez innych uczestników polowania 	okrycie chroniące przed deszczem	emblemat z nazwą Koła łowieckiego	Emblemat z nazwą Koła Łowiecliego
+Polowanie na zające odbywa się przy udziale co najmniej	2301	2	dwunastu myśliwych	piętnastu myśliwych	sześciu myśliwych	trzech myśliwych
+Do wykonywania polowania indywidualnego niezbędne jest posiadanie	2302	2	uprawnieniń selekcjonerskich	legitymacji PZŁ, pozwolenia na broń	ważnej legitymacji PZŁ, pozwolenia na broń, upoważnienia do wykonywania polowania indywidualnego 	upoważnienia do wykonywania polowania indywidualnego
+Polowanie na drapieżniki przy stogach i norach, wykonywane przez więcej niż jednego myśliwego z udziałem podkładacza z psem jest	2303	2	polowaniem zbiorowym	polowaniem sanitarnym	polowaniem indywidualnym	polowaniem z pędzeniami
+Polowanie na ptactwo, w którym współpracuje ze sobą nie więcej niż trzech myśliwych korzystających z psa jest	2304	3	polowaniem z pędzeniami	polowaniem zbiorowym	polowaniem na pomyka	polowaniem indywidualnym
+Oddawanie strzału w miot na polowaniu zbiorowym, do zwierzyny płowej może nastąpić	2305	3	wyłącznie z broni o lufach gwintowanych i na odległość do 100 m	bez zgody prowadzącego polowanie ale na odległość do 40 m	nie wolno strzelać w miot do zwierzyny płowej	tylko za zgodą prowadzącego polowanie, w warunkach gwarantujących bezpieczeństwo
+Oddawanie strzału do zwierzyny znajdującej się w miocie na polowaniu zbiorowym z ambon, może nastąpić na odległość	2306	2	do 40 m	do 100 m	do 80 m	do 200 m
+Oddawanie strzału do zwierzyny płowej znajdującej się w miocie na polowaniu zbiorowym z ambon, może nastąpić	2307	2	tylko za zgodą prowadzącego polowanie, w warunkach gwarantujących bezpieczeństwo	tylko za zgodą prowadzącego polowanie na odległość do 200 m	zgoda prowadzącego polowanie nie jest wymagana na odległość do 80 m	zgoda prowadzącego polowanie nie jest wymagana na odległość do 100 m
+Polowanie w nocy może odbywać	2308	2	tylko na drapieżniki z broni o lufach gładkich i na odległość do 30 m	na ptactwo z broni o lufach gładkich śrutem nr 1 i grubszym	przez myśliwego wyposażonego w broń z zamontowanym celownikiem optycznym oraz lornetkę i latarkę	przez myśliwego wyposażonego w myśliwską broń palną o lufach gwintowanych
+Polowanie w nocy może odbywać na	2309	3	Wyłacznie na gęsi i kaczki na zlotach i przelotach	Daniele, dziki, lisy, jenoty, jarząbki	Jelenie byki w rykowisko oraz dziki i drapieżniki	Dziki, piżmaki i drapieżniki łowieckie oraz gęsi i kaczki
+Oddawanie strzału na polowaniu zbiorowym z ambon, może nastąpić	2310	1	wyłącznie z ambon niskich o wysokości do 1,5 m	wyłącznie z ambon umożliwiających oddanie strzału z wysokości co najmniej 2 m	z wysiadki lub czatowni	przepisy nie określają wysokości ambon
+Przy polowaniu na łosie należy stosować broń i amunicję której pocisk na odlegóści  m od wylotu lufy posiada energię nie mniejszą niż	2311	0	2000 J	1000 J	2500 J	2350 J
+Przy polowaniu na sarnę, dziki warchlaki i drapieżniki należy stosować broń i amunicję której pocisk na odlegóści  m od wylotu lufy posiada energię nie mniejszą niż	2313	1	800 J	1000 J	2500 J	2200 J
+Do wykonywania polowania dopuszcza się używanie wyłącznie urządzeń optycznych, … 	2315	2	w której światło jest przetwarzane przez urządzenia elektroniczne i może zawierać dalmierz	w której światło jest przetwarzane przez urządzenia elektroniczne	w świetle naturalnym i nie jest przetwarzany przez urządzenia elektroniczne, przy czym znak celowniczy w urządzeniu optycznym może być podświetlany 	w której światło jest przetwarzane przez urządzenia elektroniczne przy czym znak celowniczy w urządzeniu optycznym może być podświetlany
+Podczas polowania na ptactwo można strzelać do ptaków niebędących w locie	2316	1	jarząbków, gęsi i koguta bażanta	jarząbków, gęsi i łysek	kaczki krzyżówki będącej na ściernisku	wszystkich kaczek właściwych i gęsi
+Myśliwy ma obowiązek przystrzelenie broni	2317	1	jedynie po zakupie i zamontowaniu lunety	co najmniej raz w roku i każdorazowo gdy zachodzi taka potrzeba	co dwa lata gdy zachodzi taka potrzeba	broń kulowa co dwa lata, broń śrutowa co trzy lata
+Na gęsi gęgawy na terenie województw: zachodniopomorskiego, lubuskiego, wielkopolskiego i dolnośląskiego polujemy	2318	1	od 15.08 - do 30.01	od 1.09 - do 15.01	od 1.10 - do 15.01	od 15.08 - do 15.01
+Na gęsi gęgawy, zbożowe i białoczelne polujemy	2319	1	od 1.10 - do 15.01	od 1.09 - do 21.12	od 1.09 - do 31.12	od 1.09 - do 15.01
+Okres polowań na sarny kozły	2320	3	od 11.05 do 15.01	od 21.05 do 31.12	od 11.05 do 31.10	od 11.05 do 30.09
+Okres polowań na gołębie grzywacze jest	2321	1	od 15.08 do 21.10	od 15.08 do 30.11	od 15.08 do 31.10	od 15.09 do 21.10
+Okres polowań na kuropatwy przypada	2322	2	od 15.08 do 11.12	od 11.09 do 31.10	od 11.09 do 21.10	od 11.09 do 30.09
+Okres polowań na byki jelenia szlachetnego przypada	2323	1	od dnia 1 sierpnia do końca lutego	od dnia 21 sierpnia do końca lutego	od dnia 21 sierpnia do końca stycznia	od dnia 1 sierpnia do 15 lutego
+Okres polowań na łanie jelenia szlachetnego przypada	2324	3	od dnia 1 września do dnia 15 stycznia	od dnia 1 października do dnia 31 stycznia	od dnia 31 października do dnia 15 stycznia	od dnia 1 października do dnia 15 stycznia
+Okres polowań na jelenie sika jest	2325	0	na byki, łanie i cielęta - od dnia 1 października do dnia 15 stycznia	tylko na łanie i cielęta - od dnia 1 października do dnia 15 stycznia	wyłącznie na byki i cielęta - od dnia 1 października do dnia 15 stycznia	na byki, łanie i cielęta - od dnia 1 października do dnia 28 lutego
+Okres polowań na daniele przypada	2326	2	byki - od dnia 31 października do dnia 15 stycznia	byki - od dnia 1 października do dnia 15 stycznia	łanie i cielęta - od dnia 1 października do dnia 15 stycznia	byki, łanie i cielęta - od dnia 1 października do końca lutego
+Okresy polowań na sarny	2327	2	kozły - od dnia 11 maja do dnia 15 października	kozły - od dnia 11 maja do dnia 15 stycznia	kozy i koźlęta - od dnia 1 października do dnia 31 stycznia	kozy i koźlęta - od dnia 1 października do dnia 15 stycznia
+Polowania na dziki: odyńce, wycinki, przelatki oraz warchlaki jest dozwolone	2328	1	od dnia 15 sierpnia do dnia 15 stycznia	rzez cały rok	od dnia 15 kwietnia do dnia 28 lutego	od dnia 15 sierpnia do dnia 31 marca
+Polowania na dziki: lochy jest dozwolone w okresie	2329	2	od dnia 15 czerwca do dnia 15 stycznia	przez cały rok	od dnia 15 sierpnia do dnia 15 stycznia	od dnia 15 sierpnia do dnia 31 stycznia
+Okres polowań na zające szaraki i dzikie króliki	2330	1	od dnia 1 października dnia 31 grudnia	od dnia 1 listopada do dnia 31 grudnia, a w drodze odłowu - do dnia 15 stycznia	od dnia 1 października do dnia 31 grudnia, a w drodze odłowu - do dnia 31 stycznia	od dnia 1 listopada do dnia 31 grudnia, a w drodze odłowu - do dnia 31 stycznia
+Okres polowań na bażanty	2331	0	koguty - od dnia 1 października do końca lutego	koguty - od dnia 1 października do dnia 31 stycznia	kury - od dnia 1 października do końca lutego	kury - od dnia 1 października do końca lutego tylko w OHZ
+Okres polowań na jarząbki	2332	3	od dnia 15 sierpnia do dnia 30 listopada	od dnia 15 sierpnia do dnia 31 października	od dnia 1 października do dnia 30 listopada	od dnia 1 września do dnia 30 listopada
+Okres polowań na słonki	2333	2	od dnia 1 września do dnia 21 grudnia	od dnia 1 września do dnia 31 grudnia	od dnia 1 października do dnia 21 grudnia	od dnia 15 sierpnia do dnia 21 grudnia
+Okres polowań na łyski	2334	1	od dnia 1 września do dnia 21 grudnia	od dnia 15 sierpnia do dnia 31 grudnia	od dnia 15 sierpnia do dnia 15 stycznia	od dnia 15 sierpnia do dnia 21 grudnia
+Okres polowań na krzyżówki, cyraneczki, głowienki i czernice	2335	1	od dnia 15 sierpnia do dnia 31 grudnia	od dnia 15 sierpnia do dnia 21 grudnia	od dnia 15 sierpnia do dnia 15 stycznia	od dnia 11 września do dnia 31 grudnia
+Okresy polowań lisy	2336	2	od dnia 1 lipca do dnia 31 marca	od dnia 1 czerwca do dnia 31 kwietnia	od dnia 1 czerwca do dnia 31 marca	od dnia 1 maja do dnia 31 marca
+Okresy polowań lisy na terenach obwodów łowieckich, w których występuje głuszec lub cietrzew lub prowadzono w ostatnich  latach kalendarzowych zasiedlenia zająca, bażanta lub kuropatwy	2337	3	od dnia 1 czerwca do dnia 31 kwietnia	od dnia 1 czerwca do dnia 31 marca	od dnia 1 maja do dnia 31 marca	przez cały rok
+Okresy polowań na norki amerykańskie, jenoty i szopy pracze	2338	2	od dnia 15 sierpnia do dnia 15 kwietnia	od dnia 11 września do dnia 15 kwietnia	przez cały rok	od dnia 11 sierpnia do dnia 15 maja
+Okresy polowań na muflony	2339	1	tryki - od dnia 1 listopada do końca stycznia	owce i jagnięta - od dnia 1 października do dnia 15 stycznia	owce i jagnięta - od dnia 1 listopada do dnia 15 stycznia	tryki - od dnia 1 pździernika do do 15 stycznia
+Płeć kuropatwy rozpoznajemy po	2340	0	paskach na piórach barkowych	rdzawej głowie i szarej szyji	końcówkach lotek pierwszego rzędu	kolorze cieków
+Ciąża u dzików trwa	2341	2	2 miesiące 3 tygodnie i 4 dni	89 - 105 dni	114 - 118 dni	3 miesiące
