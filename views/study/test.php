@@ -61,7 +61,7 @@ $session = Yii::$app->session;
                                 <label for="radio<?= $v->id ?>"><?= $v->title ?></label>
                             </div>
                         </div>
-                    <? endforeach; ?>
+                    <?php endforeach; ?>
                     <div class="form-group form-group-submit">
                         <button type="submit" name="do" value="check" class="btn btn-primary">Sprawdź odpowiedź</button>
                     </div>
