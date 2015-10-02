@@ -5,7 +5,7 @@ $session = Yii::$app->session;
 ?>
 
 
-<?
+<?php
 
 
 //echo $session->get('test.status');
@@ -93,7 +93,3 @@ $session = Yii::$app->session;
         </div>
     </div>
 </div>
-
-
-
-
