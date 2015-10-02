@@ -47,17 +47,17 @@ AppAsset::register($this);
                     'linkOptions' => ['data-method' => 'post']
                 ],
             ['label' => 'Register', 'url' => ['/user/registration/register'], 'visible' => Yii::$app->user->isGuest],
-            Yii::$app->user->isGuest ?:
+            Yii::$app->user->isGuest ? ['label' => 'null', 'visible' => 0] :
                 [
                     'label' => 'Admin',
                     'url' => ['/user/admin/index']
                 ],
-            Yii::$app->user->isGuest ?:
+            Yii::$app->user->isGuest ? ['label' => 'null', 'visible' => 0] :
                 [
                     'label' => 'Profile',
                     'url' => ['/user/settings/profile']
                 ],
-            Yii::$app->user->isGuest ?:
+            Yii::$app->user->isGuest ? ['label' => 'null', 'visible' => 0] :
                 [
                     'label' => 'Account',
                     'url' => ['/user/settings/account']

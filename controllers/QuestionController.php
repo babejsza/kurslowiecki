@@ -8,6 +8,8 @@ use app\models\QuestionSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use yii\filters\AccessControl;
+use app\filters\AccessRule;
 
 /**
  * QuestionController implements the CRUD actions for Question model.
@@ -23,6 +25,24 @@ class QuestionController extends Controller
                     'delete' => ['post'],
                 ],
             ],
+            'access' => [
+                'class' => AccessControl::className(),
+                'ruleConfig' => [
+                    'class' => AccessRule::className(),
+                ],
+                'rules' => [
+                    [
+                        'actions' => ['create', 'index', 'update', 'delete', 'view'],
+                        'allow' => true,
+                        'roles' => ['admin'],
+                    ],
+//                    [
+//                        'actions' => ['view', 'search'],
+//                        'allow' => true,
+//                        'roles' => ['?', '*', 'admin'],
+//                    ],
+                ],
+            ]
         ];
     }
 
