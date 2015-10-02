@@ -4,10 +4,10 @@ $params = require(__DIR__ . '/params.php');
 
 $config = [
     'id' => 'basic',
-    'name'=>'Kurs Łowiecki',
+    'name' => 'Kurs Łowiecki',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
-    'language'=>'pl-PL',
+    'language' => 'pl-PL',
     'sourceLanguage' => 'en-US',
     'modules' => [
         'user' => [
@@ -18,11 +18,11 @@ $config = [
             'admins' => ['admin'],
             'enableFlashMessages' => true,
             'mailer' => [
-                'sender'                =>  ['babejsza@gmail.com' => 'Marcin Babecki'],
-                'welcomeSubject'        => 'Welcome subject',
-                'confirmationSubject'   => 'Confirmation subject',
+                'sender' => ['babejsza@gmail.com' => 'Marcin Babecki'],
+                'welcomeSubject' => 'Welcome subject',
+                'confirmationSubject' => 'Confirmation subject',
                 'reconfirmationSubject' => 'Email change subject',
-                'recoverySubject'       => 'Recovery subject',
+                'recoverySubject' => 'Recovery subject',
             ],
             'controllerMap' => [
                 'admin' => 'app\controllers\user\AdminController'
@@ -34,6 +34,7 @@ $config = [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => 'le7xZz0zf1dSS2U5UJrEBz4m6S85XTSb',
+            //'enableCsrfValidation' => false,
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
@@ -86,6 +87,11 @@ $config = [
                 'user/admin/index/<sort:.*>/<_pjax>' => 'user/admin/index',
                 'questionlist/<page:\d+>/<perpage:\d+>' => 'questionlist/index',
                 'questionlist/<page:\d+>' => 'questionlist/index',
+                'study' => 'study/index',
+                'study/new' => 'study/new',
+                'study/continue' => 'study/continue',
+                'study/next' => 'study/next',
+                'GET, POST study/do' => 'study/do'
             ]
         ],
         'i18n' => [

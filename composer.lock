@@ -4,9 +4,42 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "72cec9d381b0a2965b9642d1501c27c4",
-    "content-hash": "5718b991617028a1d87e4dcfa7a9c1ca",
+    "hash": "96a8a85af8fa20974d9fc914042fdba9",
+    "content-hash": "0f9fd53973ab1bf77ded712cfe6cc8c1",
     "packages": [
+        {
+            "name": "bower-asset/awesome-bootstrap-checkbox",
+            "version": "v0.3.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/flatlogic/awesome-bootstrap-checkbox.git",
+                "reference": "fba1dd1a6398ef13abde2992bfe8ce6f694e1cec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/flatlogic/awesome-bootstrap-checkbox/zipball/fba1dd1a6398ef13abde2992bfe8ce6f694e1cec",
+                "reference": "fba1dd1a6398ef13abde2992bfe8ce6f694e1cec",
+                "shasum": ""
+            },
+            "require-dev": {
+                "bower-asset/bootstrap-sass-official": "3.3.3",
+                "bower-asset/font-awesome-sass": "4.3.1"
+            },
+            "type": "bower-asset-library",
+            "extra": {
+                "bower-asset-main": [
+                    "awesome-bootstrap-checkbox.css",
+                    "awesome-bootstrap-checkbox.scss"
+                ],
+                "bower-asset-ignore": [
+                    "**/.*",
+                    "bower_components"
+                ]
+            },
+            "license": [
+                "MIT"
+            ]
+        },
         {
             "name": "bower-asset/bootstrap",
             "version": "v3.3.5",

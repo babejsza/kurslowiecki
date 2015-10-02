@@ -6,14 +6,10 @@ use app\models\Question;
 use app\models\TestUserQuestionAnswer;
 use Yii;
 use app\models\Test;
+use DateTime;
 
 class StudyController extends \yii\web\Controller
 {
-    public function _construct()
-    {
-
-    }
-
     public function actionIndex()
     {
 
@@ -90,8 +86,13 @@ class StudyController extends \yii\web\Controller
 
     public function actionDo()
     {
+        $errors = [];
+        $errors['answer'] = null;
+        $errors['bad_answer'] = null;
+        $post = null;
+
         $session = Yii::$app->session;
-        //$request = Yii::$app->request;
+        $request = Yii::$app->request;
         if (!$session->isActive) {
             $session->open();
         }
@@ -110,7 +111,51 @@ class StudyController extends \yii\web\Controller
             ->where(['question.active' => 1])
             ->count();
 
-        if (!$session['test']['actual_question']) {
+        $question = $this->getQuestion();
+
+
+        if ($request->post('do')) {
+
+            $post = $request->post();
+
+            if (!$request->post('answer')) {
+                $errors['answer'] = 'Musisz wprowadzić odpowiedź!';
+            } else {
+
+                if ($request->post('answer') != $question->correct_answer_id) {
+                    $errors['bad_answer'] = $request->post('answer');
+                } else {
+
+                }
+            }
+        }
+
+        $datetime1 = new DateTime($question->created_at);
+        $datetime2 = new DateTime(date('Y-m-d H:i:s'));
+        $interval = $datetime1->diff($datetime2);
+        $diff = $interval->format('%adni %hh %Im');
+
+
+        return $this->render('test', [
+            'question' => $question,
+            'question_number' => $question_number,
+            'question_answered_number' => $question_answered_number,
+            'time_spent' => $diff,
+            'errors' => $errors,
+            'post' => $post
+        ]);
+    }
+
+    private function getQuestion()
+    {
+        $session = Yii::$app->session;
+
+        $answered = $session['test']['answered'];
+        if ($answered == null) {
+            $answered = 0;
+        }
+
+        if (!isset($session['test']['actual_question'])) {
             $question = Question::find()
                 ->joinWith('answers')
                 ->where(['question.active' => 1])
@@ -128,12 +173,7 @@ class StudyController extends \yii\web\Controller
                 ->one();
         }
 
-
-        return $this->render('test', [
-            'question' => $question,
-            'question_number' => $question_number,
-            'question_answered_number' => $question_answered_number
-        ]);
+        return $question;
     }
 
 }
