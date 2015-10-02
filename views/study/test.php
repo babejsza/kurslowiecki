@@ -46,7 +46,7 @@ $session = Yii::$app->session;
                 <p><?= $question->title ?>:</p>
 
                 <form action="" method="post">
-                    <? foreach ($question->answers as $v) : ?>
+                    <?php foreach ($question->answers as $v) : ?>
                         <div class="form-group form-group-radio
                             <?php if ($errors['bad_answer'] == $v->id) : ?>bg-danger has-error strong-text<?php endif ?>
                             <?php if ($question->correct_answer_id == $v->id && $post) : ?>bg-success has-success strong-text<?php endif ?>
