@@ -1,6 +1,7 @@
 <?php
 
 $params = require(__DIR__ . '/params.php');
+$config_data = require(__DIR__ . '/config_data.php');
 
 $config = [
     'id' => 'basic',
@@ -56,11 +57,11 @@ $config = [
             'useFileTransport' => false,
             'transport' => [
                 'class' => 'Swift_SmtpTransport',
-                'host' => 'smtp.gmail.com',
-                'username' => 'xxx',
-                'password' => 'xxx',
-                'port' => '465',
-                'encryption' => 'ssl',
+                'host' => $config_data['mail']['host'],
+                'username' => $config_data['mail']['username'],
+                'password' => $config_data['mail']['password'],
+                'port' => $config_data['mail']['port'],
+                'encryption' => $config_data['mail']['encryption'],
             ],
         ],
         'log' => [
@@ -91,7 +92,8 @@ $config = [
                 'study/new' => 'study/new',
                 'study/continue' => 'study/continue',
                 'study/next' => 'study/next',
-                'GET, POST study/do' => 'study/do'
+                'study/do' => 'study/do',
+                'study/results/<id:\d+>' => 'study/results'
             ]
         ],
         'i18n' => [
