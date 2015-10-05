@@ -27,7 +27,7 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
-        'brandLabel' => 'My Company',
+        'brandLabel' => 'Kurs Łowiecki',
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
@@ -37,16 +37,10 @@ AppAsset::register($this);
         'options' => ['class' => 'navbar-nav navbar-right'],
         'items' => [
             ['label' => 'Home', 'url' => ['/site/index']],
-            ['label' => 'About', 'url' => ['/site/about']],
-            ['label' => 'Contact', 'url' => ['/site/contact']],
-            Yii::$app->user->isGuest ?
-                ['label' => 'Sign in', 'url' => ['/user/security/login']] :
-                [
-                    'label' => 'Sign out (' . Yii::$app->user->identity->username . ')',
-                    'url' => ['/user/security/logout'],
-                    'linkOptions' => ['data-method' => 'post']
-                ],
-            ['label' => 'Register', 'url' => ['/user/registration/register'], 'visible' => Yii::$app->user->isGuest],
+            //['label' => 'About', 'url' => ['/site/about']],
+            //['label' => 'Contact', 'url' => ['/site/contact']],
+            ['label' => 'Study', 'url' => ['/study']],
+            ['label' => 'Questions', 'url' => ['/questionlist']],
             Yii::$app->user->isGuest ? ['label' => 'null', 'visible' => 0] :
                 [
                     'label' => 'Admin',
@@ -62,6 +56,14 @@ AppAsset::register($this);
                     'label' => 'Account',
                     'url' => ['/user/settings/account']
                 ],
+            Yii::$app->user->isGuest ?
+                ['label' => 'Sign in', 'url' => ['/user/security/login']] :
+                [
+                    'label' => 'Sign out (' . Yii::$app->user->identity->username . ')',
+                    'url' => ['/user/security/logout'],
+                    'linkOptions' => ['data-method' => 'post']
+                ],
+            ['label' => 'Register', 'url' => ['/user/registration/register'], 'visible' => Yii::$app->user->isGuest],
         ],
     ]);
     NavBar::end();

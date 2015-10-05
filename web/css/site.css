@@ -106,3 +106,5 @@ a.desc:after {
 .question .form-group-submit {
     margin-top: 15px;
 }
+
+.question .radio label {opacity: 1 !important;}
