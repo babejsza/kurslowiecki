@@ -4,16 +4,18 @@
 use yii\helpers\Url;
 
 ?>
-<h1>Twoje </h1>
+<h1>Twoja nauka</h1>
 
 <p>
     <?php if (Yii::$app->user->isGuest) : ?>
-        może byś się zalogował?
-    <?php endif ?>
+    <p class="bg-info info">Jeżeli się zarejestrujesz i zalogujesz dostaniesz dostęp do swoich wczesniejszych wyników i
+        mozliwość kontunuacji wcześniej rozpoczętego kursu!</p>
+<?php endif ?>
 </p>
 
 <p class="text-right">
-    <a class="btn btn-primary" href="<?= Url::toRoute(['study/new']) ?>"><span class="glyphicon glyphicon-plus"></span> Rozpocznij nowy test</a>
+    <a class="btn btn-primary" href="<?= Url::toRoute(['study/new']) ?>"><span class="glyphicon glyphicon-plus"></span>
+        Rozpocznij nowy test</a>
 </p>
 
 <?php if (!Yii::$app->user->isGuest) : ?>

@@ -18,12 +18,15 @@ class StudyController extends \yii\web\Controller
         if (!Yii::$app->user->isGuest) {
             $test_model = Test::find()->where(['user_id' => Yii::$app->user->id])->orderBy('created_at DESC')->all();
             $last = Test::find()->where(['user_id' => Yii::$app->user->id])->orderBy('created_at DESC')->one();
-        }
 
-        return $this->render('index', [
-            'tests' => $test_model,
-            'last' => $last
-        ]);
+            return $this->render('index', [
+                'tests' => $test_model,
+                'last' => $last
+            ]);
+        } else {
+
+            return $this->render('index');
+        }
     }
 
 
