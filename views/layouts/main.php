@@ -41,7 +41,13 @@ AppAsset::register($this);
             //['label' => 'Contact', 'url' => ['/site/contact']],
             ['label' => 'Study', 'url' => ['/study']],
             ['label' => 'Questions', 'url' => ['/questionlist']],
-            Yii::$app->user->isGuest ? ['label' => 'null', 'visible' => 0] :
+            (
+                (Yii::$app->user->identity && !Yii::$app->user->identity->isAdmin) ||
+                Yii::$app->user->isGuest
+            ) ? [
+                'label' => 'null',
+                'visible' => 0
+            ] :
                 [
                     'label' => 'Admin',
                     'url' => ['/user/admin/index']
