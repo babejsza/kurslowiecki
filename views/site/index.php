@@ -21,8 +21,8 @@ $this->title = 'Kurst Łowiecki - Witamy!';
             <div class="col-lg-4">
                 <h2>Zarejestruj się!</h2>
 
-                <p>Zarejestrowanie się pozwoli Ci na wgląd w kursy, które już wykonałeś(-aś). W póxniejszym czasie
-                    powiadomimy Cię również o dodatkowych elementach które wprowadzimy na stronie. Nie zbieram na Twój
+                <p>Zarejestrowanie się pozwoli Ci na wgląd w kursy, które już wykonałeś(-aś). W późniejszym czasie ew.
+                    powiadomię Cię mailowo o dodatkowych elementach które wprowadzę na stronie. Nie zbieram na Twój
                     temat żadnych innych informacji poza loginem, e-mailem i hasłem. Dane te nie będą wykorzystane w żadnym celu
                     poza samą stroną Kursu Łowieckiego.</p>
 
