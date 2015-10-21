@@ -4,16 +4,26 @@ namespace app\controllers;
 
 use app\models\Answer;
 use app\models\Question;
+use app\models\QuestionSearch;
 use app\models\TestUserQuestionAnswer;
 use Yii;
 use app\models\Test;
 use DateTime;
 
+
 class StudyController extends \yii\web\Controller
 {
     public function actionIndex()
     {
-        return $this->render('index');
+        if (!Yii::$app->user->isGuest) {
+            $test_model = Test::find()->where(['user_id' => Yii::$app->user->id])->orderBy('created_at DESC')->all();
+            $last = Test::find()->where(['user_id' => Yii::$app->user->id])->orderBy('created_at DESC')->one();
+        }
+
+        return $this->render('index', [
+            'tests' => $test_model,
+            'last' => $last
+        ]);
     }
 
 
@@ -96,6 +106,47 @@ class StudyController extends \yii\web\Controller
         $this->redirect('do');
     }
 
+    private function getSessionQuestionAnsweredNumber()
+    {
+        $session = Yii::$app->session;
+        $request = Yii::$app->request;
+        if (!$session->isActive) {
+            $session->open();
+        }
+
+        $answered = $session['test']['answered'];
+        $difference = 0;
+        if ($answered == null) {
+            $answered = 0;
+            $difference = 1;
+        }
+
+        $e = explode(',', $answered);
+        if ($request->post('check')) {
+            $actual_question = array_search($session['test']['actual_question'], $e);
+            unset($e[$actual_question]);
+        }
+
+        return count($e) - $difference;
+    }
+
+    private function getQuestionAnsweredNumber()
+    {
+        $request = Yii::$app->request;
+
+        return TestUserQuestionAnswer::find()
+            ->where([
+                'user_id' => Yii::$app->user->id,
+                'test_id' => $request->get('test_id')
+            ])->count();
+    }
+
+    private function getQuestionNumber()
+    {
+        return Question::find()
+            ->where(['question.active' => 1])
+            ->count();
+    }
 
     public function actionDo()
     {
@@ -115,24 +166,8 @@ class StudyController extends \yii\web\Controller
             exit;
         }
 
-        $answered = $session['test']['answered'];
-        $difference = 0;
-        if ($answered == null) {
-            $answered = 0;
-            $difference = 1;
-        }
-
-        $e = explode(',', $answered);
-        if ($request->post('check')) {
-            $actual_question = array_search($session['test']['actual_question'], $e);
-            unset($e[$actual_question]);
-        }
-
-        $question_answered_number = count($e) - $difference;
-
-        $question_number = Question::find()
-            ->where(['question.active' => 1])
-            ->count();
+        $question_answered_number = $this->getSessionQuestionAnsweredNumber();
+        $question_number = $this->getQuestionNumber();
 
         if ($question_answered_number == $question_number) {
             if (!Yii::$app->user->isGuest) {
@@ -141,7 +176,9 @@ class StudyController extends \yii\web\Controller
                 $test_model->update();
 
                 $this->redirect(['results', 'id' => 2]);
-            } else $this->redirect(['results', 'id' => 0]);
+            } else {
+                $this->redirect(['results', 'id' => 0]);
+            }
         }
 
         $question = $this->getQuestion();
@@ -220,7 +257,97 @@ class StudyController extends \yii\web\Controller
 
     public function actionResults()
     {
-        return $this->render('results');
+        $session = Yii::$app->session;
+        $request = Yii::$app->request;
+        if (!$session->isActive) {
+            $session->open();
+        }
+
+        if (!isset($session['test'])) {
+            $this->redirect('new');
+            exit;
+        }
+
+
+        if (!Yii::$app->user->isGuest) {
+
+            $questions = Question::find()
+                ->joinWith([
+                    'testUserQuestionAnswers',
+                    'answers'
+                ])
+                ->leftJoin('test', 'test.id = test_user_question_answer.test_id')
+                ->where([
+                    'test_user_question_answer.test_id' => $request->get('test_id'),
+                    'test_user_question_answer.user_id' => Yii::$app->user->id
+                ])
+                ->orderBy('test_user_question_answer.created_at ASC')
+                ->all();
+
+        } else {
+
+        }
+
+        $question_number = $this->getQuestionNumber();
+        if ($request->get('test_id') == 0) {
+            $question_answered_number = $this->getSessionQuestionAnsweredNumber();
+
+            $answered_correctly = isset($session['test']['answered_correctly']) ? $session['test']['answered_correctly'] : 0;
+            if ($answered_correctly != 0) {
+                $number_of_correct_answers = count(explode(',', $answered_correctly));
+            } else {
+                $number_of_correct_answers = 0;
+            }
+            $percent_of_correct_answers = $answered_correctly > 0
+                ? (count(explode(',', $answered_correctly)) / count(explode(',', $session['test']['answered']))) * 100
+                : 0;
+            $percent_of_correct_answers = Yii::$app->formatter->asDecimal($percent_of_correct_answers, 1);
+
+            $date_of_start = $session['test']['created_at'];
+            $date_of_end = date('Y-m-d H:i:s');
+
+        } else {
+            $question_answered_number = $this->getQuestionAnsweredNumber();
+
+            $answers = TestUserQuestionAnswer::find()
+                ->with('question')
+                ->where([
+                    'test_user_question_answer.test_id' => $request->get('test_id'),
+                    'test_user_question_answer.user_id' => Yii::$app->user->id
+                ])
+                ->all();
+
+
+            $number_of_correct_answers = 0;
+            foreach ($answers as $v) {
+                if ($v->question->correct_answer_id == $v->answer_id) {
+                    $number_of_correct_answers++;
+                }
+            }
+
+            if($question_answered_number > 0) $percent_of_correct_answers = ($number_of_correct_answers/$question_answered_number)*100;
+            else $percent_of_correct_answers = 0;
+            $percent_of_correct_answers = Yii::$app->formatter->asDecimal($percent_of_correct_answers, 1);
+
+            $date_of_start = Test::find()->where(['id' => $request->get('test_id')])->one()->created_at;
+            $date_of_end = Test::find()->where(['id' => $request->get('test_id')])->one()->ended_at;
+            if($date_of_end == null) $date_of_end = date('Y-m-d H:i:s');
+        }
+
+        $datetime1 = new DateTime($date_of_start);
+        $datetime2 = new DateTime($date_of_end);
+        $interval = $datetime1->diff($datetime2);
+        $diff = $interval->format('%adni %hh %Im');
+
+
+        return $this->render('results', [
+            'questions' => $questions,
+            'question_number' => $question_number,
+            'question_answered_number' => $question_answered_number,
+            'time_spent' => $diff,
+            'number_of_correct_answers' => $number_of_correct_answers,
+            'percent_of_correct_answers' => $percent_of_correct_answers
+        ]);
     }
 
     private function getQuestion()

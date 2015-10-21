@@ -90,7 +90,7 @@ a.desc:after {
     margin: 0 0 15px 0;
 }
 
-.question .strong-text, .strong-text label {
+.question .strong-text, .strong-text label, .strong-text {
     font-weight: bold !important;
 }
 

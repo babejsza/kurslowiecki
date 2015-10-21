@@ -73,7 +73,7 @@ $config = [
                 ],
             ],
         ],
-        'db' => require(__DIR__ . '/db.php'),
+        'db' => require(__DIR__ . '/config_db.php'),
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
@@ -93,7 +93,7 @@ $config = [
                 'study/continue' => 'study/continue',
                 'study/next' => 'study/next',
                 'study/do' => 'study/do',
-                'study/results/<id:\d+>' => 'study/results'
+                'study/results/<test_id:\d+>' => 'study/results'
             ]
         ],
         'i18n' => [
@@ -109,6 +109,11 @@ $config = [
                     'basePath' => '@app/messages',
                 ],
                 'questions' => [
+                    'class' => 'yii\i18n\GettextMessageSource',
+                    'sourceLanguage' => 'en-US',
+                    'basePath' => '@app/messages',
+                ],
+                'study' => [
                     'class' => 'yii\i18n\GettextMessageSource',
                     'sourceLanguage' => 'en-US',
                     'basePath' => '@app/messages',

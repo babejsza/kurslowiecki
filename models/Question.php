@@ -18,6 +18,8 @@ use Yii;
  *
  * @property Answer[] $answers
  * @property User $author
+ * @property Answer $correctAnswer
+ * @property TestUserQuestionAnswer[] $testUserQuestionAnswers
  */
 class Question extends \yii\db\ActiveRecord
 {
@@ -48,14 +50,14 @@ class Question extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
-            'id' => 'ID',
-            'title' => 'Title',
-            'occured_number' => 'Occured Number',
-            'correct_answer_id' => 'Correct Answer ID',
-            'author_id' => 'Author ID',
-            'created_at' => 'Created At',
-            'updated_at' => 'Updated At',
-            'active' => 'Active',
+            'id' => Yii::t('app', 'ID'),
+            'title' => Yii::t('app', 'Title'),
+            'occured_number' => Yii::t('app', 'Occured Number'),
+            'correct_answer_id' => Yii::t('app', 'Correct Answer ID'),
+            'author_id' => Yii::t('app', 'Author ID'),
+            'created_at' => Yii::t('app', 'Created At'),
+            'updated_at' => Yii::t('app', 'Updated At'),
+            'active' => Yii::t('app', 'Active'),
         ];
     }
 
@@ -73,6 +75,22 @@ class Question extends \yii\db\ActiveRecord
     public function getAuthor()
     {
         return $this->hasOne(User::className(), ['id' => 'author_id']);
+    }
+
+    /**
+     * @return \yii\db\ActiveQuery
+     */
+    public function getCorrectAnswer()
+    {
+        return $this->hasOne(Answer::className(), ['id' => 'correct_answer_id']);
+    }
+
+    /**
+     * @return \yii\db\ActiveQuery
+     */
+    public function getTestUserQuestionAnswers()
+    {
+        return $this->hasMany(TestUserQuestionAnswer::className(), ['question_id' => 'id']);
     }
 
     /**
