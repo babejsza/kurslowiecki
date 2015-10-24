@@ -178,7 +178,7 @@ class StudyController extends \yii\web\Controller
                 $test_model->ended_at = date('y-m-d H:i:s');
                 $test_model->update();
 
-                $this->redirect(['results', 'id' => 2]);
+                $this->redirect(['results', 'id' => $test_model->id]);
             } else {
                 $this->redirect(['results', 'id' => 0]);
             }
