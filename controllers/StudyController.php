@@ -367,10 +367,6 @@ class StudyController extends \yii\web\Controller
             $answered = 0;
         }
 
-        echo '--<pre>';
-        print_r($answered);
-        echo '</pre>--';
-
         if (!isset($session['test']['actual_question'])) {
             $question = Question::find()
                 ->joinWith('answers')
