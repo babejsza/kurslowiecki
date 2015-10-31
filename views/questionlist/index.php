@@ -39,7 +39,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 return $cont;
             }
         ],
-        [
+        /*[
             'class' => 'yii\grid\ActionColumn',
             'template' => '{update} {delete}',
             'headerOptions' => ['width' => '20%', 'class' => 'activity-view-link',],
@@ -61,6 +61,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
 
         ],
+        */
     ],
 ]) ?>
 

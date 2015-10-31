@@ -328,13 +328,18 @@ class StudyController extends \yii\web\Controller
                 }
             }
 
-            if($question_answered_number > 0) $percent_of_correct_answers = ($number_of_correct_answers/$question_answered_number)*100;
-            else $percent_of_correct_answers = 0;
+            if ($question_answered_number > 0) {
+                $percent_of_correct_answers = ($number_of_correct_answers / $question_answered_number) * 100;
+            } else {
+                $percent_of_correct_answers = 0;
+            }
             $percent_of_correct_answers = Yii::$app->formatter->asDecimal($percent_of_correct_answers, 1);
 
             $date_of_start = Test::find()->where(['id' => $request->get('test_id')])->one()->created_at;
             $date_of_end = Test::find()->where(['id' => $request->get('test_id')])->one()->ended_at;
-            if($date_of_end == null) $date_of_end = date('Y-m-d H:i:s');
+            if ($date_of_end == null) {
+                $date_of_end = date('Y-m-d H:i:s');
+            }
         }
 
         $datetime1 = new DateTime($date_of_start);
