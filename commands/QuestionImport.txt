@@ -333,7 +333,7 @@ Sygnałówka myśliwska, tzw. „plessówka” powstała w	344	2	w Pilznie	w Ple
 Wychodzące we Lwowie w latach - pismo łowieckie nosiło tytuł	345	3	„Łowiec Małopolski”	„Łowiec Galicyjski”	„Łowiec Lwowski”	„Łowiec”
 „Łowiec Polski” obecnie ukazuje się jako	346	1	kwartalnik	miesięcznik	tygodnik	dwutygodnik
 Największym wydawcą literatury łowieckiej w Polsce jest obecnie	347	2	„Państwowe Wydawnictwo Rolnicze i Leśne”	„Czytelnik”	„Łowiec Polski” Sp. z o.o	Państwowy Instytut Wydawniczy
-W roku  „Łowiec Polski” obchodził	348	0	100-lecie istnienia	25-lecie istnienia	50-lecie istnienia	75-lecie istnienia
+W roku 1999  „Łowiec Polski” obchodził	348	0	100-lecie istnienia	25-lecie istnienia	50-lecie istnienia	75-lecie istnienia
 Konkurs fotograficzny im. W. Puchalskiego organizuje od  r.	349	3	Rada Naczelna PZŁ	Klub Kolekcjonera i Kultury Łowieckiej	Związek Polskich Artystów Fotografików	Wydawnictwo „Łowiec Polski”
 Jednym z zabiegów hodowlanych jest przesiedlanie zwierzyny. Jakiego gatunku zwierzęta łowne introdukuje się w Polsce na dużą skalę	351	0	bażanty	kaczki	zające	kuropatwy
 Największe w szkody w gospodarce leśnej powodują	352	3	dziki	lisy	zające	jelenie
@@ -457,7 +457,7 @@ Oddawanie strzału do zwierzyny płowej znajdującej się w miocie na polowaniu 
 Polowanie w nocy może odbywać	2308	2	tylko na drapieżniki z broni o lufach gładkich i na odległość do 30 m	na ptactwo z broni o lufach gładkich śrutem nr 1 i grubszym	przez myśliwego wyposażonego w broń z zamontowanym celownikiem optycznym oraz lornetkę i latarkę	przez myśliwego wyposażonego w myśliwską broń palną o lufach gwintowanych
 Polowanie w nocy może odbywać na	2309	3	Wyłacznie na gęsi i kaczki na zlotach i przelotach	Daniele, dziki, lisy, jenoty, jarząbki	Jelenie byki w rykowisko oraz dziki i drapieżniki	Dziki, piżmaki i drapieżniki łowieckie oraz gęsi i kaczki
 Oddawanie strzału na polowaniu zbiorowym z ambon, może nastąpić	2310	1	wyłącznie z ambon niskich o wysokości do 1,5 m	wyłącznie z ambon umożliwiających oddanie strzału z wysokości co najmniej 2 m	z wysiadki lub czatowni	przepisy nie określają wysokości ambon
-Przy polowaniu na łosie należy stosować broń i amunicję której pocisk na odlegóści  m od wylotu lufy posiada energię nie mniejszą niż	2311	0	2000 J	1000 J	2500 J	2350 J
+Przy polowaniu na łosie należy stosować broń i amunicję której pocisk na odlegóści 100m od wylotu lufy posiada energię nie mniejszą niż	2311	2	2000 J	1000 J	2500 J	2350 J
 Przy polowaniu na sarnę, dziki warchlaki i drapieżniki należy stosować broń i amunicję której pocisk na odlegóści  m od wylotu lufy posiada energię nie mniejszą niż	2313	1	800 J	1000 J	2500 J	2200 J
 Do wykonywania polowania dopuszcza się używanie wyłącznie urządzeń optycznych, … 	2315	2	w której światło jest przetwarzane przez urządzenia elektroniczne i może zawierać dalmierz	w której światło jest przetwarzane przez urządzenia elektroniczne	w świetle naturalnym i nie jest przetwarzany przez urządzenia elektroniczne, przy czym znak celowniczy w urządzeniu optycznym może być podświetlany 	w której światło jest przetwarzane przez urządzenia elektroniczne przy czym znak celowniczy w urządzeniu optycznym może być podświetlany
 Podczas polowania na ptactwo można strzelać do ptaków niebędących w locie	2316	1	jarząbków, gęsi i koguta bażanta	jarząbków, gęsi i łysek	kaczki krzyżówki będącej na ściernisku	wszystkich kaczek właściwych i gęsi

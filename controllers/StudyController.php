@@ -367,11 +367,15 @@ class StudyController extends \yii\web\Controller
             $answered = 0;
         }
 
+        echo '--<pre>';
+        print_r($answered);
+        echo '</pre>--';
+
         if (!isset($session['test']['actual_question'])) {
             $question = Question::find()
                 ->joinWith('answers')
                 ->where(['question.active' => 1])
-                ->andWhere(['NOT IN', 'question.id', [$answered]])
+                ->andWhere(['NOT IN', 'question.id', explode(',', $answered)])
                 ->orderBy('RAND()')
                 ->one();
 
