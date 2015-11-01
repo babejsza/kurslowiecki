@@ -88,15 +88,16 @@ class StudyController extends \yii\web\Controller
             $this->sessionSet();
         }
 
-        if (!$_SESSION['test']['answered']) {
+
             if ($_SESSION['test']['status'] == 'db') {
                 $answered = TestUserQuestionAnswer::find()
                     ->where(['test_id' => $request->get('id')])
+                    ->groupBy('question_id')
                     ->all();
 
                 $a = [];
                 foreach ($answered as $v) {
-                    $a[] = $v->id;
+                    $a[] = $v->question_id;
                 }
 
                 $_SESSION['test']['answered'] = implode(',', $a);
@@ -121,7 +122,7 @@ class StudyController extends \yii\web\Controller
                 }
             }
 
-        }
+        
 
         $this->redirect('../do');
 
