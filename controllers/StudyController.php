@@ -32,14 +32,19 @@ class StudyController extends \yii\web\Controller
 
     public function actionNew()
     {
+        $this->sessionSet();
+        $this->redirect('do');
+    }
+
+    private function sessionSet()
+    {
+
         $session = Yii::$app->session;
         $request = Yii::$app->request;
         if (!$session->isActive) {
             $session->open();
         }
 
-        //session_destroy();
-        //$session->destroy();
         $session->remove('test');
 
         if (!Yii::$app->user->isGuest) {
@@ -68,9 +73,6 @@ class StudyController extends \yii\web\Controller
                 ]
             );
         }
-
-
-        $this->redirect('do');
     }
 
     public function actionContinue()
@@ -82,10 +84,14 @@ class StudyController extends \yii\web\Controller
             $session->open();
         }
 
-        if (!$session->has('test.answered')) {
-            if ($session['test']['status'] == 'db') {
+        if ($_SESSION['test']) {
+            $this->sessionSet();
+        }
+
+        if (!$_SESSION['test']['answered']) {
+            if ($_SESSION['test']['status'] == 'db') {
                 $answered = TestUserQuestionAnswer::find()
-                    ->where(['test_id' => $session['test']['active_test_id']])
+                    ->where(['test_id' => $request->get('id')])
                     ->all();
 
                 $a = [];
@@ -93,9 +99,32 @@ class StudyController extends \yii\web\Controller
                     $a[] = $v->id;
                 }
 
-                $session['test'] += ['answered' => implode(',', $a)];
+                $_SESSION['test']['answered'] = implode(',', $a);
             }
+
+            $model_answer = TestUserQuestionAnswer::find()
+                ->joinWith('question')
+                ->where(['test_id' => $request->get('id')])
+                ->all();
+
+
+            foreach($model_answer as $v) {
+                if ($v->answer_id == $v->question->correct_answer_id) {
+                    $ec = [];
+                    if (isset($_SESSION['test']['answered_correctly'])) {
+                        $ec = explode(',', $_SESSION['test']['answered_correctly']);
+                    }
+                    $ec[] = $v->question_id;
+                    $ec = array_filter($ec);
+                    $ec = array_unique($ec);
+                    $_SESSION['test']['answered_correctly'] = implode(',', $ec);
+                }
+            }
+
         }
+
+        $this->redirect('../do');
+
     }
 
     public function actionNextquestion()

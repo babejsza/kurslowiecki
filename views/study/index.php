@@ -37,9 +37,9 @@ use yii\helpers\Url;
                 <td><?= $v->ended_at ?></td>
                 <td>
                     <a class="btn btn-info btn-xs" href="<?= Url::toRoute(['study/results/' . $v->id]) ?>">wyniki</a>
-                    <?php if ($v->id == $last->id) : ?>
-                        <a class="btn btn-warning btn-xs" href="<?= Url::toRoute(['study/do/']) ?>">kontynuuj</a>
-                    <?php endif ?>
+
+                        <a class="btn btn-warning btn-xs" href="<?= Url::toRoute(['study/continue/' . $v->id]) ?>">kontynuuj</a>
+
                 </td>
             </tr>
         <?php endforeach ?>
