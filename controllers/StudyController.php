@@ -84,7 +84,7 @@ class StudyController extends \yii\web\Controller
             $session->open();
         }
 
-        if ($_SESSION['test']) {
+        if (!isset($_SESSION['test'])) {
             $this->sessionSet();
         }
 
